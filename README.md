@@ -98,7 +98,7 @@
 
  - ## Record with permission from CSM
 
- - ## Appropriate time to turn off camera and complete other tasks
+ - ## Appropriate time for DSRs to turn off camera and complete other tasks
 
  - ## Post lecture under [Important Information.Extra Resources](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/09-class-resources.md)
    - [Posting Zoom Recordings](#Posting-Zoom-Recordings)
