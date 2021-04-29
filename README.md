@@ -1,5 +1,5 @@
 [List of Resonsibilities](#List-of-Resonsibilities)     
--  Attendance(#Attendance)
+-  [Attendance](#Attendance)
 
 [Lecture Days](#Lecture-Days)  
 
