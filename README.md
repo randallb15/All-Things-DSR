@@ -2,13 +2,21 @@
 [Lecture Days](#Lecture-Days)
 - [Everyday](#Everyday)  
 - [Saturday](#Saturday-Stuff)
-[Assessment Days](#Assessment-Days)
-[Career Services Days](#Career-Services-Days)
-[Case Study Days](#Case-Study-Days)
-[Capstone-Days](#Capstone-Days)
-[Help-Desk](#Help-Desk)
-[How To.s](#How-To.s)
-[Common Fixes](#Common-Fixes) 
+  
+[Assessment Days](#Assessment-Days)  
+
+[Career Services Days](#Career-Services-Days)  
+
+[Case Study Days](#Case-Study-Days)  
+
+[Capstone-Days](#Capstone-Days)  
+
+[Help-Desk](#Help-Desk)  
+
+[How To.s](#How-To.s)  
+
+[Common Fixes](#Common-Fixes)   
+
 
  # List-of-Resonsibilities  
 
