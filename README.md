@@ -82,10 +82,10 @@
    - Count down announcements at: 30, 15, 5 minutes left
 
  - ## Checking Submission
-    1) [Learn]()
-    2) **DSI Assesment_#** block 
-    3) **Results** table   
-    4) **Status** column
+    1. [Learn]()
+    2. **DSI Assesment_#** block 
+    3. **Results** table   
+    4. **Status** column
 
  - ## Posting Solutions
 
