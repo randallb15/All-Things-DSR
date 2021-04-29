@@ -82,7 +82,7 @@
    - Count down announcements at: 30, 15, 5 minutes left
 
  - ## Checking Submission 
-1. [Learn]()
+1. [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432)
 2. **DSI Assesment_#** block 
 3. **Results** table   
 4. **Status** column
