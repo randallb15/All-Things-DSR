@@ -1,5 +1,6 @@
 [List of Resonsibilities](#List-of-Resonsibilities)     
--  [Attendance](#Attendance)
+- [Attendance](#Attendance)  
+- [Update Assignment Submission Doc](#Update-Assignment-Submission-Doc)
 
 [Lecture Days](#Lecture-Days)  
 
@@ -29,9 +30,9 @@
 
     - ### [RPP2 Attendance](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=373849433)   
 
-    - ### [RPP3 Attendance]()   
-
 - ## Create & recreate Zoom breakout rooms as needed   
+
+- ## [Update Assignment Submission Doc](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=1371301276)
 
 
 
@@ -62,6 +63,7 @@
  # Lecture-Days     
 
 - ## Record Lecture
+> every cohort needs a Tony :)
 
 - ## Post [lecture recording](https://zoom.us/) after it processes
 
@@ -94,8 +96,6 @@
    - ### In Hub
 
      - #### [RPP2 HUB](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=231386871)  
-
-     - #### [RPP3 HUB](put link to RPP3 Hub here)
 
  # Career Services Days  
 
