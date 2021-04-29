@@ -1,4 +1,5 @@
-[List of Resonsibilities](#List-of-Resonsibilities)    
+[List of Resonsibilities](#List-of-Resonsibilities)     
+-  Attendance(#Attendance)
 
 [Lecture Days](#Lecture-Days)  
 
@@ -30,7 +31,9 @@
 
     - ### [RPP3 Attendance]()   
 
-- ## Create & recreate Zoom breakout rooms as needed  
+- ## Create & recreate Zoom breakout rooms as needed   
+
+
 
 # Saturday    
 - ## Retro support as directed by PL  
@@ -103,7 +106,7 @@
  - ## Post lecture under [Important Information.Extra Resources](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/09-class-resources.md)
    - [Posting Zoom Recordings](#Posting-Zoom-Recordings)
 
- # Case Study Days  
+# Case Study Days  
 
 # Capstone Days  
 
