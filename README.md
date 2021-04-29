@@ -46,7 +46,6 @@
 
   - ### check that [Pairs RPP2](https://docs.google.com/spreadsheets/d/1VcBQ9OE8YPqudsBuj6NNbmeWkR7uR8n_VgK8BTgd6TQ/edit#gid=0) are posted for any pairs assignment  
 
-  - ### check that [Pairs RPP3]() are posted for any pairs assignment
 
 - ## Add upcoming due dates to [Google doc](https://docs.google.com/spreadsheets/d/1HxucDS629qxuQ1Jy0567M1yIHwIcAyquH5xWe5xL74c/edit#gid=0)
 
@@ -65,9 +64,10 @@
 - ## Record Lecture
 > every cohort needs a Tony :)
 
-- ## Post [lecture recording](https://zoom.us/) after it processes
+- ## Post [lecture recording](https://zoom.us/) after it processes  
+ - check that no passcode is required
 
- # Assessment-Days  
+ # Assessment-Days 
 
  - ## Opening
    - Learn.SET UP
@@ -82,8 +82,10 @@
    - Count down announcements at: 30, 15, 5 minutes left
 
  - ## Checking Submission
-   - Learn.DSI Assesment #  
-     - **Results** table under **Status** column
+    1) [Learn]()
+    2) **DSI Assesment_#** block 
+    3) **Results** table   
+    4) **Status** column
 
  - ## Posting Solutions
 
