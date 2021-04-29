@@ -81,11 +81,11 @@
    - 60 minute strict time limit
    - Count down announcements at: 30, 15, 5 minutes left
 
- - ## Checking Submission
-- 1. [Learn]()
-- 2. **DSI Assesment_#** block 
-- 3. **Results** table   
-- 4. **Status** column
+ - ## Checking Submission 
+1. [Learn]()
+2. **DSI Assesment_#** block 
+3. **Results** table   
+4. **Status** column
 
  - ## Posting Solutions
 
