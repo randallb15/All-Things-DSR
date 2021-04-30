@@ -1,5 +1,8 @@
-[List of Resonsibilities](#List-of-Resonsibilities)     
-- [Attendance](#Attendance)  
+# List of Resonsibilities   
+[All Class Days](#All-Class-Days)  
+
+- [Attendance](#Attendance)    
+
 - [Update Assignment Submission Doc](#Update-Assignment-Submission-Doc) 
 
 [Weekly Tasks](#Weekly-Tasks)
@@ -23,7 +26,7 @@
 
 # List-of-Resonsibilities  
 
-# Lecture Days  
+# All Class Days  
 - ## Attendance  
 
     - ### [RPP2 Attendance](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=373849433)   
@@ -32,13 +35,17 @@
 
 - ## [Update Assignment Submission Doc](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=1371301276)
 
+# Lecture Days   
+
 - ## Record Lecture
-> every cohort needs a Tony :)  
+> Every cohort needs a Tony :)  All the sticky notes & alarms in the world aren't as effective as multiple people checking that the lectures is being recorded. Let the cohort know you appreciate their help.
 
 - ## Post [lecture recording](https://zoom.us/) after it processes  
  - check that no passcode is required
 
 # Weekly Tasks
+- ## Create pairs for any paired assignment  
+
 - ## Open next Learn modules for upcoming week  
 
   - ### check that links are working  
@@ -121,7 +128,6 @@
 - ## Help desk
 
 # Common-Fixes
-- ## Lecture Pulling
 - ## Docker
   - ### sparkbook
   - ### pgserv
@@ -147,7 +153,17 @@
     docker ps (to make sure)
     ```
 - ## Github
+    - ## Lecture Pulling
 - ## VSCode Environment
+- ## Mac
+  - “I've run into this problem whenever I update my macbook. “
+> xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun  
+
+SOLN:
+```bash
+xcode-select --install
+```
+
 - ## Linux/Unix
 - ## Windows (even though we say we don't support windows)
 - ## 
