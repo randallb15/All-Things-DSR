@@ -1,10 +1,6 @@
 # List of Resonsibilities   
 [All Class Days](#All-Class-Days)  
 
-- [Attendance](#Attendance)    
-
-- [Update Assignment Submission Doc](#Update-Assignment-Submission-Doc) 
-
 [Weekly Tasks](#Weekly-Tasks)
 
 [Lecture Days](#Lecture-Days)  
