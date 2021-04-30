@@ -58,12 +58,12 @@
 
 
 # Retro Days  
-- ## Retro support as directed by PL
+- ## [RPP2 Retro](https://drive.google.com/drive/u/2/folders/1LC2jRkS-K0JrgN7rCHQiBcwpk-GR7YU1) support as directed by PL
 - ## Kudos if you have some
 
 # Assessment Days 
 
- - ## Opening
+    - ## Opening
 1. Learn.SET UP
 2. **Content** tab
 3. **Assessments** block
@@ -71,19 +71,19 @@
 5. click dropdown arrow to left of **DSI Assessment #**
 6. click second eyeball
 
- - ## Timing  
-   - 60 minute strict time limit
-   - Count down announcements at: 30, 15, 5 minutes left
+- ## Timing Assessment 
+    - 60 minute strict time limit
+    - Count down announcements at: 30, 15, 5 minutes left
 
- - ## Checking Submission 
+- ## Checking Submission of Assessment 
 1. [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432)
 2. **DSI Assesment_#** block 
 3. **Results** table   
 4. **Status** column
 
- - ## Posting Solutions
+- ## Posting Solutions to Assessments
 
- - ## Grading
+- ## Grading Assessments
 
    - ### In Learn  
 
@@ -93,18 +93,25 @@
 
      - #### [RPP2 HUB](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=231386871)  
 
- # Career Services Days  
+# Career Services Days  
 
- - ## Record with permission from CSM
+- ## Record with permission from CSM
 
- - ## Appropriate time for DSRs to turn off camera and complete other tasks
+- ## Appropriate time for DSRs to turn off camera and complete other [tasks](#List of Responsibilities)
 
- - ## Post lecture under [Important Information.Extra Resources](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/09-class-resources.md)
+- ## Post lecture under [Important Information.Extra Resources](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/09-class-resources.md)
+   
    - [Posting Zoom Recordings](#Posting-Zoom-Recordings)
 
 # Case Study Days  
+- ## Assign breakout rooms 
+- ## Progress checks
+- ## Presentations
 
-# Capstone Days  
+# Capstone Days    
+- ## Assign breakout rooms  
+- ## [Stand-ups](https://docs.google.com/spreadsheets/d/1lztQRmiV1DQrzRyrgY0Lc_VqVFRYh7hXf0kuqDLs66k/edit#gid=0) 
+- ## Presentations
 
 # Help Desk  
 
