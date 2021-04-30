@@ -56,14 +56,12 @@
   - ### notice of upcoming case-study or capstone days  
   > ### check with PL and instructors for other announcements
 
-
 # Retro Days  
 - ## [RPP2 Retro](https://drive.google.com/drive/u/2/folders/1LC2jRkS-K0JrgN7rCHQiBcwpk-GR7YU1) support as directed by PL
 - ## Kudos if you have some
 
 # Assessment Days 
-
-    - ## Opening
+- ## Opening
 1. Learn.SET UP
 2. **Content** tab
 3. **Assessments** block
@@ -143,7 +141,7 @@
     exit
     ```bash
     docker stop tensorflow
-    docker ps to make sure
+    docker ps (to make sure)
     ```
 
   - ### pgserv
