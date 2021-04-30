@@ -20,8 +20,6 @@
 [Common Fixes](#Common-Fixes)   
 
 
-# List-of-Resonsibilities  
-
 # All Class Days  
 - ## Attendance  
 
