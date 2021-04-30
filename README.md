@@ -1,13 +1,11 @@
 [List of Resonsibilities](#List-of-Resonsibilities)     
 - [Attendance](#Attendance)  
-- [Update Assignment Submission Doc](#Update-Assignment-Submission-Doc)
+- [Update Assignment Submission Doc](#Update-Assignment-Submission-Doc) 
+
+[Weekly Tasks](#Weekly-Tasks)
 
 [Lecture Days](#Lecture-Days)  
-
-- [Everyday](#Everyday)    
-
-- [Saturday](#Saturday-Stuff)  
-  
+ 
 [Assessment Days](#Assessment-Days)  
 
 [Career Services Days](#Career-Services-Days)  
@@ -25,7 +23,7 @@
 
  # List-of-Resonsibilities  
 
- # Every Day  
+ # Lecture Days  
  - ## Attendance  
 
     - ### [RPP2 Attendance](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=373849433)   
@@ -34,20 +32,20 @@
 
 - ## [Update Assignment Submission Doc](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=1371301276)
 
+- ## Record Lecture
+> every cohort needs a Tony :)  
 
+- ## Post [lecture recording](https://zoom.us/) after it processes  
+ - check that no passcode is required
 
-# Saturday    
-- ## Retro support as directed by PL  
-- ## Kudos if you have some  
--   
+# Weekly Tasks
 - ## Open next Learn modules for upcoming week  
 
   - ### check that links are working  
 
   - ### check that [Pairs RPP2](https://docs.google.com/spreadsheets/d/1VcBQ9OE8YPqudsBuj6NNbmeWkR7uR8n_VgK8BTgd6TQ/edit#gid=0) are posted for any pairs assignment  
 
-
-- ## Add upcoming due dates to [Google doc](https://docs.google.com/spreadsheets/d/1HxucDS629qxuQ1Jy0567M1yIHwIcAyquH5xWe5xL74c/edit#gid=0)
+- ## Add upcoming due dates to [RPP2 Google doc](https://docs.google.com/spreadsheets/d/1HxucDS629qxuQ1Jy0567M1yIHwIcAyquH5xWe5xL74c/edit#gid=0)
 
 - ## Slack Announcements
   - ### due dates for current assignments
@@ -59,23 +57,19 @@
   > ### check with PL and instructors for other announcements
 
 
- # Lecture-Days     
+# Retro Days  
+- ## Retro support as directed by PL
+- ## Kudos if you have some
 
-- ## Record Lecture
-> every cohort needs a Tony :)
-
-- ## Post [lecture recording](https://zoom.us/) after it processes  
- - check that no passcode is required
-
- # Assessment-Days 
+# Assessment Days 
 
  - ## Opening
-   - Learn.SET UP
-     - **Content** tab
-       - **Assessments** block
-         - **DSI Assessment #** click first eyeball
-           - click dropdown arrow to left of **DSI Assessment #**
-             - click second eyeball
+1. Learn.SET UP
+2. **Content** tab
+3. **Assessments** block
+4. **DSI Assessment #** click first eyeball
+5. click dropdown arrow to left of **DSI Assessment #**
+6. click second eyeball
 
  - ## Timing  
    - 60 minute strict time limit
