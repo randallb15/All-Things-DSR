@@ -16,15 +16,15 @@
 
 [Help-Desk](#Help-Desk)  
 
-[How To.s](#How-To.s)  
+[How To Videos](#How-To-Videos)  
 
 [Common Fixes](#Common-Fixes)   
 
 
- # List-of-Resonsibilities  
+# List-of-Resonsibilities  
 
- # Lecture Days  
- - ## Attendance  
+# Lecture Days  
+- ## Attendance  
 
     - ### [RPP2 Attendance](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=373849433)   
 
@@ -115,6 +115,41 @@
 
 # Help Desk  
 
-# How To.s
+# How To Videos
+- ## Open Learn modules for upcoming week
+- ## Grade assessments
+- ## Post zoom recording
+- ## Add solutions for assessments/solutions
+- ## Help desk
 
 # Common-Fixes
+- ## Lecture Pulling
+- ## Docker
+  - ### sparkbook
+    ```bash 
+    docker run -it --name tensorflow -p 8888:8888 -v "$PWD":/tf tensorflow/tensorflow:2.0.0a0-py3-jupyter
+ 
+    docker start tensorflow
+    docker exec -it tensorflow bash
+    ```
+    Navigate to repo if you want 
+    cd <path>
+    In browser type: localhost:8888/
+    To get token (if you don’t have a password set up)
+    jupyter notebook list
+    Something like this will allow you to copy and paste the highlighted part: token=f47d7c92d31140b3e12c0a68703c0a7e64944133a9e149e9
+    Hopefully now, just navigate to the the repo/project
+    To exit the container (all work show be saved on your local version too)
+    exit
+    ```bash
+    docker stop tensorflow
+    docker ps to make sure
+    ```
+
+  - ### pgserv
+  - ### mongoserver
+- ## Github
+- ## VSCode Environment
+- ## Linux/Unix
+- ## Windows (even though we say we don't support windows)
+- ## 
