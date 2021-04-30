@@ -124,6 +124,9 @@
 - ## Lecture Pulling
 - ## Docker
   - ### sparkbook
+  - ### pgserv
+  - ### mongoserver
+  - ### tensorflow
     ```bash 
     docker run -it --name tensorflow -p 8888:8888 -v "$PWD":/tf tensorflow/tensorflow:2.0.0a0-py3-jupyter
  
@@ -143,9 +146,6 @@
     docker stop tensorflow
     docker ps (to make sure)
     ```
-
-  - ### pgserv
-  - ### mongoserver
 - ## Github
 - ## VSCode Environment
 - ## Linux/Unix
