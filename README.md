@@ -46,12 +46,12 @@ np.random.choice(students, replace=False, size=len(students))
       - due date extensions with prior approval
 
 - ## Open the Learn modules for upcoming week  
-    From [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432)
-    1. **SET UP** tab
-    2. **Content** tab
-    3. **<block_name>** block
-    4. click grey eyeball to right of <block_name>
-    Note: In an open block, the eyeball will disappear, but hovering over the <block_name> will reveal a green eyeball that can be clicked on to close the block.
+From [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432)
+1. **SET UP** tab
+2. **Content** tab
+3. **<block_name>** block
+4. click grey eyeball to right of <block_name>
+Note: In an open block, the eyeball will disappear, but hovering over the <block_name> will reveal a green eyeball that can be clicked on to close the block.
      
   - ### check that links are working  
 
