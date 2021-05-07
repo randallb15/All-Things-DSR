@@ -74,60 +74,37 @@ Note: In an open block, the eyeball will disappear, but hovering over the <block
 ______________
 
 # All Class Days  
-- ## Attendance
-    - Link to HUB doc Attendance tab:
+## Attendance
+- Link to HUB doc Attendance tab:
 
-      - ### [RPP2 Attendance](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=373849433)   
+- ### [RPP2 Attendance](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=373849433)   
 
-    - Within the Attendance tab the process is very self-explanatory.  
-    - Holding up fingers to show the instructor how many students we are waiting on has been effective in RPP2.
+  - Within the Attendance tab the process is very self-explanatory.  
+  - Holding up fingers to show the instructor how many students we are waiting on has been effective in RPP2.
 
-- ## Create & recreate Zoom breakout rooms as needed  
-  - Automatically assign rooms
-  - Manually assign rooms
-  - Allow participants to choose rooms
+## Create & recreate Zoom breakout rooms as needed  
+- Automatically assign rooms
+- Manually assign rooms
+- Allow participants to choose rooms
 
-- ## [Update Assignment Submission Doc](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=1371301276)
+## [Update Assignment Submission Doc](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=1371301276)
 
 # Lecture Days   
 
-- ## Sign into Zoom with cohort email
-  - Permission to open the classroom
-  - Permission to record
-  - Permission to make breakout rooms 
-  - Permission to join breakout rooms
-  - Permission to assign and move students to breakout rooms
-  - Change your Zoom name to '<your_name> DSR'
+## Sign into Zoom with cohort email
+- Permission to open the classroom
+- Permission to record
+- Permission to make breakout rooms 
+- Permission to join breakout rooms
+- Permission to assign and move students to breakout rooms
+- Change your Zoom name to '<your_name> DSR'
 
-- ## Record Lecture
+## Record Lecture
 > Every cohort needs a Tony :)  All the sticky notes & alarms in the world aren't as effective as multiple people checking that the lectures is being recorded. Let the cohort know you appreciate their help.
 
-- ## Post [lecture recording](https://zoom.us/) after it processes  
+## Post [lecture recording](https://zoom.us/) after it processes  
     - check that no passcode is required
     - [how to video: post zoom recording]()
-
-
-- ## Timing Assessment 
-    - 60 minute strict time limit
-    - Count down announcements at: 30, 15, 5 minutes left
-
-- ## Checking Submission of Assessment 
-1. [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432)
-2. **DSI Assesment_#** block 
-3. **Results** table   
-4. **Status** column
-
-- ## Posting Solutions to Assessments
-
-- ## Grading Assessments
-
-   - ### In Learn  
-
-     - #### [RPP2 Learn]()
-
-   - ### In Hub
-
-     - #### [RPP2 HUB](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=231386871)  
 
 # Assessment Days 
 - ## Opening
@@ -138,88 +115,106 @@ ______________
 5. click dropdown arrow to left of **DSI Assessment #**
 6. click second eyeball
 
+## Timing Assessment 
+- 60 minute strict time limit
+- Count down announcements at: 30, 15, 5 minutes left
+
+## Checking Submission of Assessment 
+1. [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432)
+2. **DSI Assesment_#** block 
+3. **Results** table   
+4. **Status** column
+
+## Posting Solutions to Assessments
+
+## Grading Assessments
+
+- ### In Learn  
+- #### [RPP2 Learn]()
+- ### In Hub
+- #### [RPP2 HUB](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=231386871)  
+
 # Case Study Days  
 - ## Generate Groups of 3/4 students  
   [See creating pairs code & challenges](#Create-pairs-for-any-paired-assignment)
 
-- ## Assign breakout rooms 
+## Assign breakout rooms 
+[See Manually assign rooms](#Manually-assign-rooms)
 
-  [See Manually assign rooms](#Manually-assign-rooms)
+## Progress checks
 
-- ## Progress checks
+1. MVP plan
 
-  1. MVP plan
+  - use MVP+, MVP++, future work to handle overly optimistic plans
 
-      - use MVP+, MVP++, future work to handle overly optimistic plans
+  - plan should include hypothetic audience
 
-     - plan should include hypothetic audience
+2. Github repo  
+  >forked by student A  
+  >cloned from student A by other team members 
 
-  2. Github repo  
-      >forked by student A  
-      >cloned from student A by other team members 
-
-      - [Ryan & Heather example video](https://zoom.us/rec/share/WYhK0DE1ZBs4lvN33JDCp3eMHl7QTycVjlaRXbWCgaXcVvwJ8CBzsrVFqjvMln1T.oETxz6XDF0QB1LuA?startTime=1616691949000)
+  - [Ryan & Heather example video](https://zoom.us/rec/share/WYhK0DE1ZBs4lvN33JDCp3eMHl7QTycVjlaRXbWCgaXcVvwJ8CBzsrVFqjvMln1T.oETxz6XDF0QB1LuA?startTime=1616691949000)
       
-      - suggest VSCode Live Share for README.md  
+  - suggest VSCode Live Share for README.md  
 
-  3. Slide deck/presentation tool started  
+3. Slide deck/presentation tool started  
 
-- ## Presentations
+## Presentations
 
 # Capstone Days    
-- ## Assign breakout rooms 
-    [See Manually assign rooms](#Manually-assign-rooms)   
+## Assign breakout rooms 
+[See Manually assign rooms](#Manually-assign-rooms)   
 
-- ## Stand-ups
-    [RPP2 Stand-ups Sheet](https://docs.google.com/spreadsheets/d/1lztQRmiV1DQrzRyrgY0Lc_VqVFRYh7hXf0kuqDLs66k/edit#gid=0) 
-    - Check:
-        1. Well defined MVP
-        2. Cohesive, narrow Story
-        3. GitHub repo + README + Slide Deck started
-    - Elevator Pitch (30 second engaging overview) 
-    - Follow-up on meeting goals from last stand-up
-    - Goals for today
-    - ABC always be committing
+## Stand-ups
+[RPP2 Stand-ups Sheet](https://docs.google.com/spreadsheets/d/1lztQRmiV1DQrzRyrgY0Lc_VqVFRYh7hXf0kuqDLs66k/edit#gid=0) 
+- Check:
+    1. Well defined MVP
+    2. Cohesive, narrow Story
+    3. GitHub repo + README + Slide Deck started
+- Elevator Pitch (30 second engaging overview) 
+- Follow-up on meeting goals from last stand-up
+- Goals for today
+- ABC always be committing
   
-- ## Presentations
-    [RPP2 Presentation Sheet](https://docs.google.com/spreadsheets/d/1lztQRmiV1DQrzRyrgY0Lc_VqVFRYh7hXf0kuqDLs66k/edit#gid=0)
+## Presentations
+[RPP2 Presentation Sheet](https://docs.google.com/spreadsheets/d/1lztQRmiV1DQrzRyrgY0Lc_VqVFRYh7hXf0kuqDLs66k/edit#gid=0)
 # Retro Days  
 
-- ## [RPP2 Retro](https://drive.google.com/drive/u/2/folders/1LC2jRkS-K0JrgN7rCHQiBcwpk-GR7YU1) support as directed by PL
+## [RPP2 Retro](https://drive.google.com/drive/u/2/folders/1LC2jRkS-K0JrgN7rCHQiBcwpk-GR7YU1) support as directed by PL
 
-- ## Kudos from DSRs after student's are done
+## Kudos from DSRs after student's are done
 
 # Career Services Days  
 
-- ## Record with permission from CSM
+## Record with permission from CSM
 
-- ## Appropriate time for DSRs to turn off camera and complete other [tasks](#List of Responsibilities)
+## Appropriate time for DSRs to turn off camera and complete other [tasks](#List of Responsibilities)
 
-- ## Post lecture under [Important Information.Extra Resources](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/09-class-resources.md) or CSM Learn block when created.
+## Post lecture under [Important Information.Extra Resources](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/09-class-resources.md) or CSM Learn block when created.
    
-   - [Posting Zoom Recordings](#Posting-Zoom-Recordings)
+- [Posting Zoom Recordings](#Posting-Zoom-Recordings)
 
 _______________
 
 # Help Desk  
 
 # How To Videos
-- ## Open Learn modules for upcoming week
-- ## Grade assessments
-- ## Post zoom recording
-- ## Add Assignment Solutions
-- ## Add Assessment Solutions 
-- ## Help desk Video
-- ## Edit Learn Video
-- ## (*) Downloads & API to allow access to Learn
-- ## Ultipro Time Sheet Changes
+## Open Learn modules for upcoming week
+## Grade assessments
+## Post zoom recording
+## Add Assignment Solutions
+## Add Assessment Solutions 
+## Help desk Video
+## Edit Learn Video
+## (*) Downloads & API to allow access to Learn
+## Ultipro Time Sheet Changes
 
 # Common-Fixes
-- ## Docker
-  - ### sparkbook
-  - ### pgserv
-  - ### mongoserver
-  - ### tensorflow
+## Docker
+- ### sparkbook
+- ### pgserv
+- ### mongoserver
+- ### tensorflow
     ```bash 
     docker run -it --name tensorflow -p 8888:8888 -v "$PWD":/tf tensorflow/tensorflow:2.0.0a0-py3-jupyter
  
@@ -239,12 +234,12 @@ _______________
     docker stop tensorflow
     docker ps (to make sure)
     ```
-- ## Github
-  - ### [Kacie's Git Review](https://zoom.us/rec/share/woTbzJ12anB-q_dDd6_g5K_6k6ydmgxMzWVGLncsBQ7hnV_nVNwdfHxNnJuZbS2w.7pkatu8jYvAJ5477?startTime=1619659988000)
-  - ### Lecture Pulling
-- ## VSCode Environment
-- ## Mac
-  - “I've run into this problem whenever I update my macbook. “
+## Github
+- ### [Kacie's Git Review](https://zoom.us/rec/share/woTbzJ12anB-q_dDd6_g5K_6k6ydmgxMzWVGLncsBQ7hnV_nVNwdfHxNnJuZbS2w.7pkatu8jYvAJ5477?startTime=1619659988000)
+- ### Lecture Pulling
+## VSCode Environment
+## Mac
+- “I've run into this problem whenever I update my macbook. “
 > xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun  
 
 SOLN:
@@ -252,11 +247,11 @@ SOLN:
 xcode-select --install
 ```
 
-- ## Linux/Unix
-- ## Windows (even though we say we don't support windows)
+## Linux/Unix
+## Windows (even though we say we don't support windows)
 
 _________________
 
 # Ultipro Stuff
-- ## Time Sheet Changes
-- ## Onboarding Stuff
+## Time Sheet Changes
+## Onboarding Stuff
