@@ -35,11 +35,11 @@ RPP2_students = ['Becky', 'Bahar', 'Andrew', 'Mekdi', 'Tony', 'Robert',
                  'Sean', 'Nick', 'Reza', 'Bobby', 'Di', 'Gary', 'Matthew', 'Shaheer', 'Marwah']
 np.random.choice(students, replace=False, size=len(students))
 ```
-**challenges**  
-- Sometimes students will explain that they don't want to work with another student. Different instructors handle this differently, posting the proposed pairs/groups to the team allows feedback and maybe adjustments.  
-- Different time zones and work/family schedules can make pair programming difficult for part-time cohorts. Ask instructor regarding: 
-  - pairing based on time zones or schedules
-  - due date extensions with prior approval
+    **challenges**  
+    - Sometimes students will explain that they don't want to work with another student. Different instructors handle this differently, posting the proposed pairs/groups to the team allows feedback and maybe adjustments.  
+    - Different time zones and work/family schedules can make pair programming difficult for part-time cohorts. Ask instructor regarding: 
+      - pairing based on time zones or schedules
+      - due date extensions with prior approval
 
 - ## Open the Learn modules for upcoming week  
     From [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432)
