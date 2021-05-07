@@ -107,7 +107,7 @@ ______________
     - [how to video: post zoom recording]()
 
 # Assessment Days 
-- ## Opening
+## Opening
 1. Learn.SET UP
 2. **Content** tab
 3. **Assessments** block
@@ -130,12 +130,12 @@ ______________
 ## Grading Assessments
 
 - ### In Learn  
-- #### [RPP2 Learn]()
+[RPP2 Learn]()
 - ### In Hub
-- #### [RPP2 HUB](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=231386871)  
+[RPP2 HUB](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=231386871)  
 
 # Case Study Days  
-- ## Generate Groups of 3/4 students  
+## Generate Groups of 3/4 students  
   [See creating pairs code & challenges](#Create-pairs-for-any-paired-assignment)
 
 ## Assign breakout rooms 
@@ -145,17 +145,17 @@ ______________
 
 1. MVP plan
 
-  - use MVP+, MVP++, future work to handle overly optimistic plans
+- use MVP+, MVP++, future work to handle overly optimistic plans
 
-  - plan should include hypothetic audience
+- plan should include hypothetic audience
 
 2. Github repo  
-  >forked by student A  
-  >cloned from student A by other team members 
+>forked by student A  
+>cloned from student A by other team members 
 
-  - [Ryan & Heather example video](https://zoom.us/rec/share/WYhK0DE1ZBs4lvN33JDCp3eMHl7QTycVjlaRXbWCgaXcVvwJ8CBzsrVFqjvMln1T.oETxz6XDF0QB1LuA?startTime=1616691949000)
-      
-  - suggest VSCode Live Share for README.md  
+- [Ryan & Heather example video](https://zoom.us/rec/share/WYhK0DE1ZBs4lvN33JDCp3eMHl7QTycVjlaRXbWCgaXcVvwJ8CBzsrVFqjvMln1T.oETxz6XDF0QB1LuA?startTime=1616691949000)
+    
+- suggest VSCode Live Share for README.md  
 
 3. Slide deck/presentation tool started  
 
@@ -167,14 +167,14 @@ ______________
 
 ## Stand-ups
 [RPP2 Stand-ups Sheet](https://docs.google.com/spreadsheets/d/1lztQRmiV1DQrzRyrgY0Lc_VqVFRYh7hXf0kuqDLs66k/edit#gid=0) 
-- Check:
-    1. Well defined MVP
-    2. Cohesive, narrow Story
-    3. GitHub repo + README + Slide Deck started
-- Elevator Pitch (30 second engaging overview) 
-- Follow-up on meeting goals from last stand-up
-- Goals for today
-- ABC always be committing
+Check:
+1. Well defined MVP
+2. Cohesive, narrow Story
+3. GitHub repo + README + Slide Deck started
+Elevator Pitch (30 second engaging overview) 
+Follow-up on meeting goals from last stand-up
+Goals for today
+ABC always be committing
   
 ## Presentations
 [RPP2 Presentation Sheet](https://docs.google.com/spreadsheets/d/1lztQRmiV1DQrzRyrgY0Lc_VqVFRYh7hXf0kuqDLs66k/edit#gid=0)
@@ -188,9 +188,10 @@ ______________
 
 ## Record with permission from CSM
 
-## Appropriate time for DSRs to turn off camera and complete other [tasks](#List of Responsibilities)
+## Appropriate time for DSRs to turn off camera and complete other [tasks](#List-of-Responsibilities)
 
-## Post lecture under [Important Information.Extra Resources](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/09-class-resources.md) or CSM Learn block when created.
+## Post CSM presentation
+[Important Information.Extra Resources](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/09-class-resources.md) or CSM Learn block when created.
    
 - [Posting Zoom Recordings](#Posting-Zoom-Recordings)
 
