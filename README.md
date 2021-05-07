@@ -58,9 +58,10 @@ Note: In an open block, the eyeball will disappear, but hovering over the <block
 
 - ### check that [Pairs RPP2](https://docs.google.com/spreadsheets/d/1VcBQ9OE8YPqudsBuj6NNbmeWkR7uR8n_VgK8BTgd6TQ/edit#gid=0) are posted for any pairs assignment  
 
-- ### Find typos/errors? [Edit Learn](#Edit-Learn-Video)
+- ### Find typos/errors/broken-links? [Edit Learn](#Edit-Learn-Video)
 
-## Add upcoming due dates to [RPP2 Google doc](https://docs.google.com/spreadsheets/d/1HxucDS629qxuQ1Jy0567M1yIHwIcAyquH5xWe5xL74c/edit#gid=0)
+## Add Upcoming Due Dates
+[RPP2 Google doc](https://docs.google.com/spreadsheets/d/1HxucDS629qxuQ1Jy0567M1yIHwIcAyquH5xWe5xL74c/edit#gid=0)
 
 ## Slack Announcements
 - ### due dates for current assignments
