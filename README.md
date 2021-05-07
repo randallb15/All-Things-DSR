@@ -27,7 +27,7 @@
 ______________
  
 # Weekly Tasks
-- ## Create pairs for any paired assignment 
+## Create pairs for any paired assignment 
 
 Simple code, for random listing of students, which can be used choose pairs, groups of size k < n, and order of presentations: 
 ```python
@@ -45,7 +45,7 @@ np.random.choice(students, replace=False, size=len(students))
 
       - due date extensions with prior approval
 
-- ## Open the Learn modules for upcoming week  
+## Open the Learn modules for upcoming week  
 From [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432)
 1. **SET UP** tab
 2. **Content** tab
@@ -54,22 +54,22 @@ From [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432)
 
 Note: In an open block, the eyeball will disappear, but hovering over the <block_name> will reveal a green eyeball that can be clicked on to close the block.
      
-  - ### check that links are working  
+- ### check that links are working  
 
-  - ### check that [Pairs RPP2](https://docs.google.com/spreadsheets/d/1VcBQ9OE8YPqudsBuj6NNbmeWkR7uR8n_VgK8BTgd6TQ/edit#gid=0) are posted for any pairs assignment  
+- ### check that [Pairs RPP2](https://docs.google.com/spreadsheets/d/1VcBQ9OE8YPqudsBuj6NNbmeWkR7uR8n_VgK8BTgd6TQ/edit#gid=0) are posted for any pairs assignment  
 
-  - ### Find typos/errors? [Edit Learn](#Edit-Learn-Video)
+- ### Find typos/errors? [Edit Learn](#Edit-Learn-Video)
 
-- ## Add upcoming due dates to [RPP2 Google doc](https://docs.google.com/spreadsheets/d/1HxucDS629qxuQ1Jy0567M1yIHwIcAyquH5xWe5xL74c/edit#gid=0)
+## Add upcoming due dates to [RPP2 Google doc](https://docs.google.com/spreadsheets/d/1HxucDS629qxuQ1Jy0567M1yIHwIcAyquH5xWe5xL74c/edit#gid=0)
 
-- ## Slack Announcements
-  - ### due dates for current assignments
-  - ### reminder to submit assignments
-  - ### notice of upcoming assessments
-  - ### highlight async assignment(s)
-  - ### highlight paired assignment(s)
-  - ### notice of upcoming case-study or capstone days  
-  > ### check with PL and instructors for other announcements
+## Slack Announcements
+- ### due dates for current assignments
+- ### reminder to submit assignments
+- ### notice of upcoming assessments
+- ### highlight async assignment(s)
+- ### highlight paired assignment(s)
+- ### notice of upcoming case-study or capstone days  
+> ### check with PL and instructors for other announcements
 
 ______________
 
