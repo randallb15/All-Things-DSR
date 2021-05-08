@@ -1,4 +1,4 @@
-# List of Resonsibilities   
+# Table of Contents 
  
 [Weekly Tasks](#Weekly-Tasks)
 
@@ -26,10 +26,9 @@
 
 ______________
  
-# Weekly Tasks
+# Weekly Tasks 
 ## Create pairs for any paired assignment 
-
-Simple code, for random listing of students, which can be used choose pairs, groups of size k < n, and order of presentations: 
+Simple code, for random listing of students, which can be used to choose pairs, groups of size k < n, and order of presentations: 
 ```python
 RPP2_students = ['Becky', 'Bahar', 'Andrew', 'Mekdi', 'Tony', 'Robert',
                  'Sean', 'Nick', 'Reza', 'Bobby', 'Di', 'Gary', 'Matthew', 'Shaheer', 'Marwah']
@@ -45,6 +44,9 @@ np.random.choice(students, replace=False, size=len(students))
 
       - due date extensions with prior approval
 
+## Make Pairs Student Facing
+[Pairs RPP2](https://docs.google.com/spreadsheets/d/1VcBQ9OE8YPqudsBuj6NNbmeWkR7uR8n_VgK8BTgd6TQ/edit#gid=0) are posted for any pairs assignment  
+
 ## Open the Learn modules for upcoming week  
 From [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432)
 1. **SET UP** tab
@@ -54,11 +56,27 @@ From [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432)
 
 Note: In an open block, the eyeball will disappear, but hovering over the <block_name> will reveal a green eyeball that can be clicked on to close the block.
      
-- ### check that links are working  
+- ### check that links are working   
 
-- ### check that [Pairs RPP2](https://docs.google.com/spreadsheets/d/1VcBQ9OE8YPqudsBuj6NNbmeWkR7uR8n_VgK8BTgd6TQ/edit#gid=0) are posted for any pairs assignment  
+## Fix Learn Typos/Errors/Broken-links   
+[Edit Learn](#Edit-Learn-Video)
+In a terminal, from the learn repo <dsi-learn-block>
+```bash
+git pull
+git checkout RPP2
+git pull (do we need to re-pull from each branch?)
+code .
+```
+In VSCode: make and save changes.
+Back in terminal:
+```bash
+learn preview -o . #the -o opens a preview Learn block to see changes
+git add .
+git commit -m '<note about the changes you made>'
+git push origin RPP2
+```
+In Learn:
 
-- ### Find typos/errors/broken-links? [Edit Learn](#Edit-Learn-Video)
 
 ## Add Upcoming Due Dates
 [RPP2 Google doc](https://docs.google.com/spreadsheets/d/1HxucDS629qxuQ1Jy0567M1yIHwIcAyquH5xWe5xL74c/edit#gid=0)
@@ -67,8 +85,8 @@ Note: In an open block, the eyeball will disappear, but hovering over the <block
 - ### due dates for current assignments
 - ### reminder to submit assignments
 - ### notice of upcoming assessments
-- ### highlight async assignment(s)
-- ### highlight paired assignment(s)
+- ### bold async assignment(s)
+- ### italicize paired assignment(s)
 - ### notice of upcoming case-study or capstone days  
 > ### check with PL and instructors for other announcements
 
@@ -77,8 +95,7 @@ ______________
 # All Class Days  
 ## Attendance
 - Link to HUB doc Attendance tab:
-
-- ### [RPP2 Attendance](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=373849433)   
+[RPP2 Attendance](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=373849433)   
 
   - Within the Attendance tab the process is very self-explanatory.  
   - Holding up fingers to show the instructor how many students we are waiting on has been effective in RPP2.
@@ -189,7 +206,7 @@ ABC always be committing
 
 ## Record with permission from CSM
 
-## Appropriate time for DSRs to turn off camera and complete other [tasks](#List-of-Responsibilities)
+## Appropriate time for DSRs to turn off camera and complete other [tasks](#Weekly-Tasks)
 
 ## Post CSM presentation
 [Important Information.Extra Resources](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/09-class-resources.md) or CSM Learn block when created.
