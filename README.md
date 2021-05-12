@@ -22,11 +22,12 @@
 
 [Common Fixes](#Common-Fixes)   
 
-[Ultipro Stuff](#Ulti-Pro-Stuff)
+[Ulti Pro Stuff](#Ulti-Pro-Stuff)
 
 ______________
  
 # Weekly Tasks 
+
 ## Create pairs for any paired assignment 
 Simple code, for random listing of students, which can be used to choose pairs, groups of size k < n, and order of presentations: 
 ```python
@@ -35,7 +36,7 @@ RPP2_students = ['Becky', 'Bahar', 'Andrew', 'Mekdi', 'Tony', 'Robert',
 np.random.choice(students, replace=False, size=len(students))
 ```
   **challenges**  
-    - Sometimes students will explain that they don't want to work with another student. Different instructors handle this differently, posting the proposed pairs/groups to the team allows feedback and maybe adjustments.  
+    - Sometimes students may express that they don't want to work with another student. Different instructors handle this differently, posting the proposed pairs/groups to the team allows feedback and maybe adjustments.  
     - Different time zones and work/family schedules can make pair programming difficult for part-time cohorts. 
     
     Ask instructor regarding:   
@@ -44,8 +45,16 @@ np.random.choice(students, replace=False, size=len(students))
 
       - due date extensions with prior approval
 
-## Make Pairs Student Facing
-[Pairs RPP2](https://docs.google.com/spreadsheets/d/1VcBQ9OE8YPqudsBuj6NNbmeWkR7uR8n_VgK8BTgd6TQ/edit#gid=0) are posted for any pairs assignment  
+## Post Pairs
+[Pairs RPP2](https://docs.google.com/spreadsheets/d/1VcBQ9OE8YPqudsBuj6NNbmeWkR7uR8n_VgK8BTgd6TQ/edit#gid=0) This Google doc updates Learn
+
+## Add Due Dates
+[Due Dates RPP2](https://docs.google.com/spreadsheets/d/1HxucDS629qxuQ1Jy0567M1yIHwIcAyquH5xWe5xL74c/edit#gid=0)
+
+## Check Weekly Schedule
+[Weekly Schedule RPP2](https://docs.google.com/spreadsheets/d/1ZK02biclqOQaqHNCqaYQsx8iUlAvVH9rTxpExVv4ZN8/edit#gid=0)
+ - Are dates and order of modules correct
+ - Check for Async assignment to be included in announcements
 
 ## Open the Learn modules for upcoming week  
 From [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432)
@@ -56,7 +65,6 @@ From [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432)
 
 Note: In an open block, the eyeball will disappear, but hovering over the <block_name> will reveal a green eyeball that can be clicked on to close the block.
      
-- ### check that links are working   
 
 ## Fix Learn Typos/Errors/Broken-links   
 [Edit Learn](#Edit-Learn-Video)
@@ -76,10 +84,6 @@ git commit -m '<note about the changes you made>'
 git push origin RPP2
 ```
 In Learn:
-
-
-## Add Upcoming Due Dates
-[RPP2 Google doc](https://docs.google.com/spreadsheets/d/1HxucDS629qxuQ1Jy0567M1yIHwIcAyquH5xWe5xL74c/edit#gid=0)
 
 ## Slack Announcements
 - ### due dates for current assignments
@@ -144,13 +148,23 @@ ______________
 4. **Status** column
 
 ## Posting Solutions to Assessments
+[RPP2 Learn Assessment Solution Block](https://learn-2.galvanize.com/cohorts/2432/blocks/1045/content_files/01-assessment-solutions/01-solutions.md)
 
 ## Grading Assessments
-
 - ### In Learn  
-[RPP2 Learn]()
+[RPP2 Learn Assessment 0](https://learn-2.galvanize.com/cohorts/2432/blocks/115/content_files/assessment-0.md?assessment=true)
+
 - ### In Hub
 [RPP2 HUB](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=231386871)  
+
+- ### Adding Assessment Statistics to Learn
+[RPP2 Learn Assessment Solution Block](https://learn-2.galvanize.com/cohorts/2432/blocks/1045/content_files/01-assessment-solutions/01-solutions.md)
+
+```python
+import pandas as pd
+temp = pd.read_csv('~/Desktop/temp.csv')
+temp.describe().iloc[:,-2]
+```
 
 # Case Study Days  
 ## Generate Groups of 3/4 students  
