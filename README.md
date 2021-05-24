@@ -51,28 +51,30 @@ np.random.choice(RPP2_students, replace=False, size=len(RPP2_students))
       - due date extensions with prior approval
 
 ## Post Pairs
-[Pairs RPP2](https://docs.google.com/spreadsheets/d/1VcBQ9OE8YPqudsBuj6NNbmeWkR7uR8n_VgK8BTgd6TQ/edit#gid=0) 
 
-This Google doc updates [Learn Pairs](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/07-pairs.md) and is student facing.
+[RPP2 Pairs Learn](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/07-pairs.md)
 
-## Add Due Dates
-[Due Dates RPP2](https://docs.google.com/spreadsheets/d/1HxucDS629qxuQ1Jy0567M1yIHwIcAyquH5xWe5xL74c/edit#gid=0)
+[RPP2 Pairs Google Doc]((https://docs.google.com/spreadsheets/d/1VcBQ9OE8YPqudsBuj6NNbmeWkR7uR8n_VgK8BTgd6TQ/edit#gid=0))
+
+## Check Student Facing Calendars
+
+[RPP2 Due Dates Learn](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/08-assignment-due-date.md)
+
+[RPP2 Due Dates Google Doc](https://docs.google.com/spreadsheets/d/1HxucDS629qxuQ1Jy0567M1yIHwIcAyquH5xWe5xL74c/edit#gid=0)
 
 - In general, the due date is a week from the corresponding lecture.  
 - Async assignments are due a week from that week's Saturday lecture.
 - Paired assignments should be italicized
 
-[RPP2 Student facing calendars](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/06-calendar.md)
+[RPP2 Main Calendar & Weekly Schedule Learn](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/06-calendar.md)
 
-## Check Weekly Schedule  
-[Weekly Schedule RPP2](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=725018318)
- - Are dates and order of modules correct? (Alert PL to discrepancies)
- - Check for Async assignment to be included in announcements
-
-## Check Main Calendar
-[RPP2 Main Calendar](https://calendar.google.com/calendar/u/0/r/week/2021/5/30)
+[RPP2 Main Calendar Google Doc](https://calendar.google.com/calendar/u/0/r/week/2021/5/30)
 - Check DSR Coverage
 - Check lecture, retro, assessment, case-study, capstones, break dates
+
+[RPP2 Weekly Schedule Google Doc](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=725018318)
+ - Are dates and order of modules correct? (Alert PL to discrepancies)
+ - Check for Async assignment to be included in announcements
 
 ## Open the Learn modules for upcoming week  
 From [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432)
