@@ -34,8 +34,10 @@ ______________
 Simple code, for random listing of students, which can be used to choose pairs, groups of size k < n, and order of presentations: 
 ```python
 import numpy as np
-RPP2_students = ['Becky', 'Bahar', 'Andrew', 'Mekdi', 'Tony', 'Robert',
-                 'Sean', 'Nick', 'Reza', 'Bobby', 'Di', 'Gary', 'Matthew', 'Shaheer', 'Marwah']
+RPP2_students = ['Becky_MDT', 'Bahar_PST', 'Andrew_EST', 'Mekdi_PST', 'Tony_PST', 'Robert_CT',
+                 'Sean_EST?', 'Nick_PST', 'Reza_CT', 'Bobby_AZ', 'Di_PST', 'Gary_EST', 
+                 'Matthew_EST', 'Shaheer_AZ', 'Marwah_PST']
+
 np.random.choice(RPP2_students, replace=False, size=len(RPP2_students))
 ```
   **challenges**  
@@ -51,7 +53,7 @@ np.random.choice(RPP2_students, replace=False, size=len(RPP2_students))
 ## Post Pairs
 [Pairs RPP2](https://docs.google.com/spreadsheets/d/1VcBQ9OE8YPqudsBuj6NNbmeWkR7uR8n_VgK8BTgd6TQ/edit#gid=0) 
 
-This Google doc updates Learn
+This Google doc updates Learn and is student facing.
 
 ## Add Due Dates
 [Due Dates RPP2](https://docs.google.com/spreadsheets/d/1HxucDS629qxuQ1Jy0567M1yIHwIcAyquH5xWe5xL74c/edit#gid=0)
@@ -59,9 +61,11 @@ This Google doc updates Learn
 In general, the due date is a week from the corresponding lecture.  
 Async assignments are due a week from that week's Saturday lecture.
 
+[RPP2 Student facing calendars](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/06-calendar.md)
+
 ## Check Weekly Schedule
 [Weekly Schedule RPP2](https://docs.google.com/spreadsheets/d/1ZK02biclqOQaqHNCqaYQsx8iUlAvVH9rTxpExVv4ZN8/edit#gid=0)
- - Are dates and order of modules correct?
+ - Are dates and order of modules correct? (Alert PL to discrepancies)
  - Check for Async assignment to be included in announcements
 
 ## Open the Learn modules for upcoming week  
