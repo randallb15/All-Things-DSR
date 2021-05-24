@@ -33,9 +33,10 @@ ______________
 ## Create pairs for any paired assignment 
 Simple code, for random listing of students, which can be used to choose pairs, groups of size k < n, and order of presentations: 
 ```python
+import numpy as np
 RPP2_students = ['Becky', 'Bahar', 'Andrew', 'Mekdi', 'Tony', 'Robert',
                  'Sean', 'Nick', 'Reza', 'Bobby', 'Di', 'Gary', 'Matthew', 'Shaheer', 'Marwah']
-np.random.choice(students, replace=False, size=len(students))
+np.random.choice(RPP2_students, replace=False, size=len(RPP2_students))
 ```
   **challenges**  
     - Sometimes students may express that they don't want to work with another student. Different instructors handle this differently, posting the proposed pairs/groups to the team allows feedback and maybe adjustments.  
