@@ -58,8 +58,9 @@ This Google doc updates Learn and is student facing.
 ## Add Due Dates
 [Due Dates RPP2](https://docs.google.com/spreadsheets/d/1HxucDS629qxuQ1Jy0567M1yIHwIcAyquH5xWe5xL74c/edit#gid=0)
 
-In general, the due date is a week from the corresponding lecture.  
-Async assignments are due a week from that week's Saturday lecture.
+- In general, the due date is a week from the corresponding lecture.  
+- Async assignments are due a week from that week's Saturday lecture.
+- Paired assignments should be italicized
 
 [RPP2 Student facing calendars](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/06-calendar.md)
 
