@@ -22,6 +22,8 @@
 
 [Common Fixes](#Common-Fixes)   
 
+[Tuesday Team Meeting](#Tuesday-Team-Meeting)
+
 [Ultipro Stuff](#Ultipro-Stuff)
 
 ______________
@@ -41,19 +43,24 @@ np.random.choice(students, replace=False, size=len(students))
     
     Ask instructor regarding:   
 
-      - pairing based on time zones or schedules  
+      - pairing based on time zones or schedules (alternatives to random pairings) 
 
       - due date extensions with prior approval
 
 ## Post Pairs
-[Pairs RPP2](https://docs.google.com/spreadsheets/d/1VcBQ9OE8YPqudsBuj6NNbmeWkR7uR8n_VgK8BTgd6TQ/edit#gid=0) This Google doc updates Learn
+[Pairs RPP2](https://docs.google.com/spreadsheets/d/1VcBQ9OE8YPqudsBuj6NNbmeWkR7uR8n_VgK8BTgd6TQ/edit#gid=0) 
+
+This Google doc updates Learn
 
 ## Add Due Dates
 [Due Dates RPP2](https://docs.google.com/spreadsheets/d/1HxucDS629qxuQ1Jy0567M1yIHwIcAyquH5xWe5xL74c/edit#gid=0)
 
+In general, the due date is a week from the corresponding lecture.  
+Async assignments are due a week from that week's Saturday lecture.
+
 ## Check Weekly Schedule
 [Weekly Schedule RPP2](https://docs.google.com/spreadsheets/d/1ZK02biclqOQaqHNCqaYQsx8iUlAvVH9rTxpExVv4ZN8/edit#gid=0)
- - Are dates and order of modules correct
+ - Are dates and order of modules correct?
  - Check for Async assignment to be included in announcements
 
 ## Open the Learn modules for upcoming week  
@@ -65,7 +72,6 @@ From [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432)
 
 Note: In an open block, the eyeball will disappear, but hovering over the <block_name> will reveal a green eyeball that can be clicked on to close the block.
      
-
 ## Fix Learn Typos/Errors/Broken-links   
 [Edit Learn](#Edit-Learn-Video)
 In a terminal, from the learn repo <dsi-learn-block>
@@ -84,13 +90,18 @@ git commit -m '<note about the changes you made>'
 git push origin RPP2
 ```
 In Learn:
+1. **SET UP** tab
+2. **Repos** tab
+3. **<block_name>** block will have a green 'updates' oval
+4. click sync arrows OR 3 vertical dots to right (choose update branch) of <block_name>  
+5. Double check that the changes are working in the student facing Learn block.
 
 ## Slack Announcements
 - ### due dates for current assignments
 - ### reminder to submit assignments
+  - #### bold async assignment(s)
+  - #### italicize paired assignment(s)
 - ### notice of upcoming assessments
-- ### bold async assignment(s)
-- ### italicize paired assignment(s)
 - ### notice of upcoming case-study or capstone days  
 > ### check with PL and instructors for other announcements
 
@@ -99,17 +110,30 @@ ______________
 # All Class Days  
 ## Attendance
 - Link to HUB doc Attendance tab:
-[RPP2 Attendance](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=373849433)   
+[RPP2 Attendance](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=373849433)  
+
+> RPP2 has a different attendance policy than future cohorts. Confirm policy with PL.
 
   - Within the Attendance tab the process is very self-explanatory.  
   - Holding up fingers to show the instructor how many students we are waiting on has been effective in RPP2.
+
 
 ## Create & recreate Zoom breakout rooms as needed  
 - Automatically assign rooms
 - Manually assign rooms
 - Allow participants to choose rooms
 
-## [Update Assignment Submission Doc](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=1371301276)
+## Assignment Submissions
+
+### [RPP2 Checking Submissions in Learn](https://learn-2.galvanize.com/cohorts/2432/unit_progress)  
+1. **UNIT PROGRESS** tab
+2. **<block_name>** use down arrow
+3. <Assignment_name> use down arrow   
+4. <Assignment_Submission> small circle indicates 'submitted'
+
+### [RPP2 Update Assignment Submission Doc](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=1371301276)  
+
+A class period grace period was effective in RPP2. For example, if the assignment is due on Tuesday, checking for that assignment submission + updating the google sheet on Thursday worked well.
 
 # Lecture Days   
 
@@ -124,9 +148,74 @@ ______________
 ## Record Lecture
 > Every cohort needs a Tony :)  All the sticky notes & alarms in the world aren't as effective as multiple people checking that the lectures is being recorded. Let the cohort know you appreciate their help.
 
-## Post [lecture recording](https://zoom.us/) after it processes  
-    - check that no passcode is required
-    - [how to video: post zoom recording]()
+## [RPP2 Provide Access to Assignment Repo](https://github.com/GalvanizeDataScience/convolutional-neural-nets) *github CNN for example*  
+
+> Open at the beginning of class, not prior to lecture
+
+1. Settings
+2. Manage Access
+3. Enter and Confirm your password
+4. Invite teams or people (READ Access)
+5. For RPP2, add **GalvanizeDataScience/21-02-ds-rpp**
+6. Confirm: Add GalvanizeDataScience/21-02-ds-rpp
+
+## [RPP2 Add Solutions to Cohort's Solutions Repo]()  
+> RPP2 opens solutions with assignment. This will not be the case for RPP3. RPP3 solutions will be posted on the due date.
+
+ONLY DO THIS PART THE FIRST TIME:
+[RPP2 solutions repo](https://github.com/GalvanizeDataScience/solutions-rpp2.git)
+
+1. git clone <cohort_solution_repo>
+2. cd into solutions repo
+3. git remote add solutions <cohort_solution_repo>
+4. git fetch solutions main
+
+DO THIS EVERY TIME:
+
+1. cd into solutions repo
+2. git pull
+3. git fetch solutions main
+4. git checkout solutions/main oop
+> using oop as an example
+5. git add .
+6. git commit -m 'add oop solutions'
+7. git push
+
+
+
+
+## Announcements  
+
+Check-in with Instructor & PL prior to class regarding announcements 
+
+## Post [lecture recording](https://zoom.us/) after it processes 
+- edit recording name to include: *instructor, topic(s), date*
+- check that no passcode is required
+- [how to video: post zoom recording]()
+
+In a terminal, from the learn repo <dsi-learn-block>
+```bash
+git pull
+git checkout RPP2
+git pull (do we need to re-pull from each branch?)
+code .
+```
+In VSCode: add lecture recording link.
+Back in terminal:
+```bash
+learn preview -o . #the -o opens a preview Learn block to see changes
+git add .
+git commit -m '<note about the changes you made>'
+git push origin RPP2
+```
+
+In Learn:
+1. **SET UP** tab
+2. **Repos** tab
+3. **<block_name>** block will have a green 'updates' oval
+4. click sync arrows OR 3 vertical dots to right (choose update branch) of <block_name>  
+5. Double check that the changes are working in the student facing Learn block.
+
 
 # Assessment Days 
 ## Opening
@@ -147,8 +236,19 @@ ______________
 3. **Results** table   
 4. **Status** column
 
+## Adding solutions to solutions repo
+
+1. cd into solutions repo
+2. git pull
+3. git fetch solutions main
+4. git checkout solutions/main assessments/assessments-0
+> using 0 as an example
+5. git add .
+6. git commit -m 'add <name_of_module> solutions'
+7. git push
+
 ## Posting Solutions to Assessments
-[RPP2 Learn Assessment Solution Block](https://learn-2.galvanize.com/cohorts/2432/blocks/1045/content_files/01-assessment-solutions/01-solutions.md)
+[RPP2 Learn Assessment Solution Block](https://learn-2.galvanize.com/cohorts/2432/blocks/1045/content_files/01-assessment-solutions/01-solutions.md) 
 
 ## Grading Assessments
 - ### In Learn  
@@ -210,6 +310,8 @@ ABC always be committing
   
 ## Presentations
 [RPP2 Presentation Sheet](https://docs.google.com/spreadsheets/d/1lztQRmiV1DQrzRyrgY0Lc_VqVFRYh7hXf0kuqDLs66k/edit#gid=0)
+
+
 # Retro Days  
 
 ## [RPP2 Retro](https://drive.google.com/drive/u/2/folders/1LC2jRkS-K0JrgN7rCHQiBcwpk-GR7YU1) support as directed by PL
@@ -230,6 +332,7 @@ ABC always be committing
 _______________
 
 # Help Desk  
+Encourage students to use the assignments channel to troubleshoot problems. Teach students to fish. The goal is helping the student find the answer, not providing the answer.
 
 # How To Videos
 ## Open Learn modules for upcoming week
@@ -243,11 +346,65 @@ _______________
 ## Ultipro Time Sheet Changes
 
 # Common-Fixes
-## Docker
+
+## Docker  
+
+Ubuntu users may need to use sudo before docker commands
+https://stackoverflow.com/questions/48957195/how-to-fix-docker-got-permission-denied-issue
+
+
+If you do a git command with an open docker container, you may have to stop the container in order for the updates to show up.
+https://github.com/moby/moby/issues/15793#issuecomment-135411504
+
+
 - ### sparkbook
-- ### pgserv
-- ### mongoserver
-- ### tensorflow
+
+$ docker run --name sparkbook -p 8881:8888 -v "$PWD":/home/jovyan/work jupyter/pyspark-notebook start.sh jupyter lab --LabApp.token=''
+
+- ### pgserv  
+
+$ docker run --name pgserv -d -p 5432:5432 -v "$PWD":/home/data -e POSTGRES_PASSWORD='galvanize' skylarenglish/galvanize:galv_db
+^only do this once. If there is a problem:
+	docker rm pgserv or docker container rm pgserv  and run again.
+docker start pgserv
+docker exec -it pgserv bash
+cd home/data/*from root of container 
+To leave the container:
+exit
+Docker stop pgserv
+____
+
+psycopg2 Install probs, try:
+conda update --all
+conda install psycopg2 
+____
+
+Working with psycopg2 in notebook/script?
+import psycopg2 as pg2
+conn = pg2.connect(dbname='readychef',
+                     host='localhost',
+                     user='postgres',
+                     password='galvanize')
+cur = conn.cursor()
+query = '''select * from events limit 10;'''
+cur.execute(query)
+for row in cur:
+    print(row)
+
+
+### mongoserver  
+
+If you get into the root directory and can’t navigate to home/data/…
+(probably means the docker container ‘mongoserver’ wasn’t initially run with the right path)
+From docker mongoserver root:
+```bash
+exit
+docker stop mongoserver
+docker rm mongoserver
+$ docker run --name mongoserver -p 27017:27017 -v "$PWD":/home/data -d mongo
+```
+
+### tensorflow
     ```bash 
     docker run -it --name tensorflow -p 8888:8888 -v "$PWD":/tf tensorflow/tensorflow:2.0.0a0-py3-jupyter
  
@@ -267,10 +424,44 @@ _______________
     docker stop tensorflow
     docker ps (to make sure)
     ```
-## Github
-- ### [Kacie's Git Review](https://zoom.us/rec/share/woTbzJ12anB-q_dDd6_g5K_6k6ydmgxMzWVGLncsBQ7hnV_nVNwdfHxNnJuZbS2w.7pkatu8jYvAJ5477?startTime=1619659988000)
-- ### Lecture Pulling
+## Github  
+
+[Git Reference Doc](https://github.com/GalvanizeDataScience/course-outline/blob/21-02-DS-RPP/quick-reference/Git.pdf)
+
+
+### [Kacie's Git Review](https://zoom.us/rec/share/woTbzJ12anB-q_dDd6_g5K_6k6ydmgxMzWVGLncsBQ7hnV_nVNwdfHxNnJuZbS2w.7pkatu8jYvAJ5477?startTime=1619659988000)
+
+### Lecture Pulling
+To clone just lectures from the RPT branch
+```bash
+git clone -b RPT --single-branch https://github.com/GalvanizeDataScience/lectures.git
+```
+
+Tired of having to add your credentials to the terminal each time you want to clone or push?
+```bash
+git config --global credential.helper store
+git config --global credential.helper cache
+```
+OR
+
+```bash
+git config --global credential.helper 'cache --timeout=3600'
+```
+
+## Unix
+
+
+
+
 ## VSCode Environment
+____
+For the unix assignment, when I try to put the 2015_goog_sorted.csv file into the plot_stock_prices.py code, VSCode and Pylint gives an import error for matplotlib. How do I fix this?
+answer:
+I figured out how to get this to work. I needed to set up the anaconda environment by typing conda activate env into my python console. The environment can be found by typing 
+conda info --envs into the console.
+____
+
+
 ## Mac
 - “I've run into this problem whenever I update my macbook. “
 > xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun  
@@ -281,10 +472,25 @@ xcode-select --install
 ```
 
 ## Linux/Unix
-## Windows (even though we say we don't support windows)
+
+## Windows (even though the program may not 'technically' support windows)
+
+Okay I think the substitution for $PWD is %cd%. At least that’s what this article is telling me. https://stackoverflow.com/questions/35767929/using-docker-via-windows-console-includes-invalid-characters-pwd-for-a-local-v
 
 _________________
 
-# Ultipro Stuff
-## Time Sheet Changes
+## Tuesday Team Meetings 
+[Asana](https://app.asana.com/0/home/1199688949945059)
+
+## Ultipro Stuff
+1. Open incognito window (command+shift+n)
+2. Open outlook (make sure you are signed in with k12 email)
+3. Open ultipro.com
+4. Choose Workforce Management tab
+5. Use My Clock to clock in and out
+
+* Time Sheet Change Requests
+
 ## Onboarding Stuff
+Background check  
+I9  
