@@ -64,10 +64,15 @@ This Google doc updates Learn and is student facing.
 
 [RPP2 Student facing calendars](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/06-calendar.md)
 
-## Check Weekly Schedule
-[Weekly Schedule RPP2](https://docs.google.com/spreadsheets/d/1ZK02biclqOQaqHNCqaYQsx8iUlAvVH9rTxpExVv4ZN8/edit#gid=0)
+## Check Weekly Schedule  
+[Weekly Schedule RPP2](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=725018318)
  - Are dates and order of modules correct? (Alert PL to discrepancies)
  - Check for Async assignment to be included in announcements
+
+## Check Main Calendar
+[RPP2 Main Calendar](https://calendar.google.com/calendar/u/0/r/week/2021/5/30)
+- Check DSR Coverage
+- Check lecture, retro, assessment, case-study, capstones, break dates
 
 ## Open the Learn modules for upcoming week  
 From [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432)
