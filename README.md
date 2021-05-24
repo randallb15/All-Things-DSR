@@ -54,7 +54,7 @@ np.random.choice(RPP2_students, replace=False, size=len(RPP2_students))
 
 [RPP2 Pairs Learn](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/07-pairs.md)
 
-[RPP2 Pairs Google Doc]((https://docs.google.com/spreadsheets/d/1VcBQ9OE8YPqudsBuj6NNbmeWkR7uR8n_VgK8BTgd6TQ/edit#gid=0))
+[RPP2 Pairs Google Doc](https://docs.google.com/spreadsheets/d/1VcBQ9OE8YPqudsBuj6NNbmeWkR7uR8n_VgK8BTgd6TQ/edit#gid=0)
 
 ## Check Student Facing Calendars
 
