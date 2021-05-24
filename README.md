@@ -53,7 +53,7 @@ np.random.choice(RPP2_students, replace=False, size=len(RPP2_students))
 ## Post Pairs
 [Pairs RPP2](https://docs.google.com/spreadsheets/d/1VcBQ9OE8YPqudsBuj6NNbmeWkR7uR8n_VgK8BTgd6TQ/edit#gid=0) 
 
-This Google doc updates Learn and is student facing.
+This Google doc updates [Learn Pairs](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/07-pairs.md) and is student facing.
 
 ## Add Due Dates
 [Due Dates RPP2](https://docs.google.com/spreadsheets/d/1HxucDS629qxuQ1Jy0567M1yIHwIcAyquH5xWe5xL74c/edit#gid=0)
