@@ -86,7 +86,8 @@ From [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432)
 Note: In an open block, the eyeball will disappear, but hovering over the <block_name> will reveal a green eyeball that can be clicked on to close the block.
      
 ## Fix Learn Typos/Errors/Broken-links   
-[Edit Learn](#Edit-Learn-Video)
+[RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432/content)
+[Edit Learn Video](#Edit-Learn-Video)
 In a terminal, from the learn repo <dsi-learn-block>
 ```bash
 git pull
