@@ -77,7 +77,7 @@ np.random.choice(RPP2_students, replace=False, size=len(RPP2_students))
  - Check for Async assignment to be included in announcements
 
 ## Open the Learn modules for upcoming week  
-From [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432)
+From [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432/content)
 1. **SET UP** tab
 2. **Content** tab
 3. **<block_name>** block
@@ -86,7 +86,7 @@ From [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432)
 Note: In an open block, the eyeball will disappear, but hovering over the <block_name> will reveal a green eyeball that can be clicked on to close the block.
      
 ## Fix Learn Typos/Errors/Broken-links   
-[RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432/content)  
+[RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432)  
 
 [Edit Learn Video](#Edit-Learn-Video)  
 
