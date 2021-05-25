@@ -102,7 +102,7 @@ After creating pairs and getting feedback on adjustments, updating this google s
 - Async assignments are due a week from that week's Saturday lecture.
 - Paired assignments should be italicized
 
-## Open the Learn modules for upcoming week  
+## Open the Learn Modules for Upcoming Week  
 From [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432/content)
 1. **SET UP** tab
 2. **Content** tab
