@@ -140,9 +140,9 @@ Note: In an open block, the eyeball will disappear, but hovering over the <block
 cd Desktop/Galvanize/LEARN
 git clone https://github.com/gSchool/dsi-learn-clustering-methods.git # if not yet cloned
 cd dsi-learn-clustering-methods
-git pull 
+git pull # I don't know if this is strictly necessary
 git checkout RPP2 
-git pull
+git pull origin RPP2
 code .
 ```
 Make necessary changes in VSCode markdown file(s)
