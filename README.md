@@ -54,7 +54,7 @@ Simple code for random list of RPP2 students, which can be used to choose pairs,
 ```python
 import numpy as np
 RPP2_students = ['Becky_MDT', 'Bahar_PST', 'Andrew_EST', 'Mekdi_PST', 'Tony_PST', 'Robert_CT',
-                 'Sean_EST?', 'Nick_PST', 'Reza_CT', 'Bobby_AZ', 'Di_PST', 'Gary_EST', 
+                 'Sean_PST', 'Nick_PST', 'Reza_CT', 'Bobby_AZ', 'Di_PST', 'Gary_EST', 
                  'Matthew_EST', 'Shaheer_AZ', 'Marwah_PST']
 
 np.random.choice(RPP2_students, replace=False, size=len(RPP2_students))
@@ -322,7 +322,7 @@ Simple code for random list of RPP2 students, which can be used to choose pairs,
 ```python
 import numpy as np
 RPP2_students = ['Becky_MDT', 'Bahar_PST', 'Andrew_EST', 'Mekdi_PST', 'Tony_PST', 'Robert_CT',
-                 'Sean_EST?', 'Nick_PST', 'Reza_CT', 'Bobby_AZ', 'Di_PST', 'Gary_EST', 
+                 'Sean_PST?', 'Nick_PST', 'Reza_CT', 'Bobby_AZ', 'Di_PST', 'Gary_EST', 
                  'Matthew_EST', 'Shaheer_AZ', 'Marwah_PST']
 
 np.random.choice(RPP2_students, replace=False, size=len(RPP2_students))
