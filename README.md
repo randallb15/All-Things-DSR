@@ -92,6 +92,7 @@ After creating pairs and getting feedback on adjustments, updating this google s
  - Are dates and order of modules correct? (Alert PL to discrepancies)
  - Check for Async assignment to be included in announcements
 
+[updating due dates how to video](https://drive.google.com/file/d/1_2FXEfwQswyXi7L2QyT6RjbIrMmwbIkf/view?usp=sharing)
 [RPP2 Due Dates Learn](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/08-assignment-due-date.md)
 
 [RPP2 Due Dates Google Sheet](https://docs.google.com/spreadsheets/d/1HxucDS629qxuQ1Jy0567M1yIHwIcAyquH5xWe5xL74c/edit#gid=0)
