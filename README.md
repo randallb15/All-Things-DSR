@@ -29,7 +29,7 @@
 
 - [Updating Due Dates How To Video](https://drive.google.com/file/d/1_2FXEfwQswyXi7L2QyT6RjbIrMmwbIkf/view?usp=sharing)
 
-- [Open Learn modules for upcoming week]()
+- [Open Learn modules for upcoming week](https://drive.google.com/file/d/16Stfq6gfBHQslPfDbP9OzCEp8A8c6BRr/view?usp=sharing)
 
 - [Grade assessments]()
 
@@ -113,10 +113,14 @@ From [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432/content)
 
 Note: In an open block, the eyeball will disappear, but hovering over the <block_name> will reveal a green eyeball that can be clicked on to close the block.
 
+[* open learn modules for upcoming week how to video](https://drive.google.com/file/d/16Stfq6gfBHQslPfDbP9OzCEp8A8c6BRr/view?usp=sharing)
+
 ## Fix Learn Typos/Errors/Broken-links   
 [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432)  
 
 [GitHub gSchool](https://github.com/gSchool)
+
+[RPP2 solutions repo link](https://github.com/GalvanizeDataScience/solutions-rpp2)
 
 ### JUST ONE TIME, get access to gSchool Learn
 
