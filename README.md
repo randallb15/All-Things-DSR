@@ -205,7 +205,7 @@ Link to HUB doc Attendance tab:
 
 ### [RPP2 Update Assignment Submission Sheet](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=1371301276)  
 
-A one-class grace period was effective in RPP2. For example, if the assignment is due on Tuesday, checking for that assignment submission + updating the google sheet on Thursday worked well.
+A one-class grace has bee the norm for RPP2. For example, if the assignment is due on Tuesday, checking for that assignment submission + updating the google sheet on Thursday worked well. At the discretion of the instructor/PL, students may ask for an extension to the due date.
 
 # Lecture Days   
 
