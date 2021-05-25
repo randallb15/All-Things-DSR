@@ -31,7 +31,7 @@ ______________
 # Weekly Tasks 
 
 ## Create pairs for any paired assignment 
-Simple [code for random list of RPP2 students](#Code-for-random-list-of-RPP2-students), which can be used to choose pairs, groups of size k < n, and order of presentations: 
+Simple code for random list of RPP2 students, which can be used to choose pairs, groups of size k < n, and order of presentations: 
 ```python
 import numpy as np
 RPP2_students = ['Becky_MDT', 'Bahar_PST', 'Andrew_EST', 'Mekdi_PST', 'Tony_PST', 'Robert_CT',
@@ -105,7 +105,9 @@ git pull # if necessary
 code .
 ```
 Make necessary changes in VSCode markdown file(s)
+
 Save changes
+
 ```bash
 learn preview -o .
 git add .
@@ -219,7 +221,7 @@ Check-in with Instructor & PL prior to class regarding announcements
 ## Post [lecture recording](https://zoom.us/) after it processes 
 - edit recording name to include: *instructor, topic(s), date*
 - check that no passcode is required
-- [how to video: post zoom recording]()
+
 
 In a terminal, from the learn repo <dsi-learn-block>
 ```bash
@@ -233,7 +235,7 @@ Back in terminal:
 ```bash
 learn preview -o . #the -o opens a preview Learn block to see changes
 git add .
-git commit -m '<note about the changes you made>'
+git commit -m 'add lecture recording'
 git push origin RPP2
 ```
 
@@ -297,10 +299,17 @@ Assessment statistics will populate after inputs are complete, which can be used
 
 # Case Study Days  
 ## Generate Groups of 3/4 students  
-Code for random list of RPP2 students
+Simple code for random list of RPP2 students, which can be used to choose pairs, groups of size k < n, and order of presentations: 
+```python
+import numpy as np
+RPP2_students = ['Becky_MDT', 'Bahar_PST', 'Andrew_EST', 'Mekdi_PST', 'Tony_PST', 'Robert_CT',
+                 'Sean_EST?', 'Nick_PST', 'Reza_CT', 'Bobby_AZ', 'Di_PST', 'Gary_EST', 
+                 'Matthew_EST', 'Shaheer_AZ', 'Marwah_PST']
+
+np.random.choice(RPP2_students, replace=False, size=len(RPP2_students))
+```
 
 ## Assign breakout rooms 
-[See Manually assign rooms](#Manually-assign-rooms)
 
 ## Progress checks
 
@@ -323,8 +332,8 @@ Code for random list of RPP2 students
 ## Presentations
 
 # Capstone Days    
-## Assign breakout rooms 
-[See Manually assign rooms](#Manually-assign-rooms)   
+
+## Manually Assign breakout rooms 
 
 ## Stand-ups
 [RPP2 Stand-ups Sheet](https://docs.google.com/spreadsheets/d/1lztQRmiV1DQrzRyrgY0Lc_VqVFRYh7hXf0kuqDLs66k/edit#gid=0) 
@@ -354,9 +363,39 @@ ABC always be committing
 ## Appropriate time for DSRs to turn off camera and complete other [tasks](#Weekly-Tasks)
 
 ## Post CSM presentation
-[Important Information.Extra Resources](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/09-class-resources.md) or CSM Learn block when created.
+
+Temporarily CSM resources will be stored in 
+[Important Information > Career Services Videos](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/10-career-service-videos.md) 
+
+CSM Learn block is being created.
+
+## Post [CSM recording](https://zoom.us/) after it processes 
+- edit recording name to include: *instructor, topic(s), date*
+- check that no passcode is required
    
-- [Posting Zoom Recordings](#Posting-Zoom-Recordings)
+```bash
+cd dsi-learn-welcome-template
+git pull  
+git checkout RPP2 
+git pull  
+code .
+```
+Add zoom link in career services videos markdown file in VSCode
+
+Save changes
+
+```bash
+learn preview -o .
+git add .
+git commit -m 'added CSM video'
+git push origin RPP2
+```
+In Learn:
+1. **SET UP** tab
+2. **Repos** tab
+3. **<block_name>** block will have a green 'updates' oval
+4. click sync arrows OR 3 vertical dots to right (choose update branch) of <block_name>  
+5. Double check that the changes are working in the student facing Learn block.
 
 _______________
 
