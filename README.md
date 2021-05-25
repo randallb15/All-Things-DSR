@@ -74,23 +74,25 @@ np.random.choice(RPP2_students, replace=False, size=len(RPP2_students))
 
 [RPP2 Pairs Learn](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/07-pairs.md)
 
-[RPP2 Pairs Google Doc](https://docs.google.com/spreadsheets/d/1VcBQ9OE8YPqudsBuj6NNbmeWkR7uR8n_VgK8BTgd6TQ/edit#gid=0)
+[RPP2 Pairs Google Sheeet](https://docs.google.com/spreadsheets/d/1VcBQ9OE8YPqudsBuj6NNbmeWkR7uR8n_VgK8BTgd6TQ/edit#gid=0)
+
+After creating pairs and getting feedback on adjustments, updating this google sheet will make the pairs visible to the students.
 
 ## Check Student Facing Calendars
 
 [RPP2 Main Calendar & Weekly Schedule Learn](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/06-calendar.md)
 
-[RPP2 Main Calendar Google Doc](https://calendar.google.com/calendar/u/0/r/week/2021/5/30)
+[RPP2 Main Calendar Google Sheet](https://calendar.google.com/calendar/u/0/r/week/2021/5/30)
 - Check DSR Coverage
 - Check lecture, retro, assessment, case-study, capstones, break dates
 
-[RPP2 Weekly Schedule Google Doc](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=725018318)
+[RPP2 Weekly Schedule Google Sheet](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=725018318)
  - Are dates and order of modules correct? (Alert PL to discrepancies)
  - Check for Async assignment to be included in announcements
 
 [RPP2 Due Dates Learn](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/08-assignment-due-date.md)
 
-[RPP2 Due Dates Google Doc](https://docs.google.com/spreadsheets/d/1HxucDS629qxuQ1Jy0567M1yIHwIcAyquH5xWe5xL74c/edit#gid=0)
+[RPP2 Due Dates Google Sheet](https://docs.google.com/spreadsheets/d/1HxucDS629qxuQ1Jy0567M1yIHwIcAyquH5xWe5xL74c/edit#gid=0)
 
 - In general, the due date is a week from the corresponding lecture.  
 - Async assignments are due a week from that week's Saturday lecture.
