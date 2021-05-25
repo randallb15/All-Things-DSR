@@ -25,7 +25,7 @@
 [Ultipro Stuff](#Ultipro-Stuff)
 
 [How To Videos](#How-To-Videos) 
-- [Creating Pairs/Groups Video]()
+- [Creating Pairs/Groups Video](https://drive.google.com/file/d/1_2FXEfwQswyXi7L2QyT6RjbIrMmwbIkf/view?usp=sharing)
 
 - [Open Learn modules for upcoming week]()
 
@@ -71,6 +71,8 @@ np.random.choice(RPP2_students, replace=False, size=len(RPP2_students))
       - due date extensions with prior approval
 
 ## Post Pairs
+
+[pairs how to video](https://drive.google.com/file/d/1_2FXEfwQswyXi7L2QyT6RjbIrMmwbIkf/view?usp=sharing)
 
 [RPP2 Pairs Learn](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/07-pairs.md)
 
