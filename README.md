@@ -31,7 +31,7 @@ ______________
 # Weekly Tasks 
 
 ## Create pairs for any paired assignment 
-Simple code, for random listing of students, which can be used to choose pairs, groups of size k < n, and order of presentations: 
+Simple code for random listing of students, which can be used to choose pairs, groups of size k < n, and order of presentations: 
 ```python
 import numpy as np
 RPP2_students = ['Becky_MDT', 'Bahar_PST', 'Andrew_EST', 'Mekdi_PST', 'Tony_PST', 'Robert_CT',
@@ -135,7 +135,7 @@ ______________
 
 # All Class Days  
 ## Attendance
-- Link to HUB doc Attendance tab:
+Link to HUB doc Attendance tab:
 [RPP2 Attendance](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=373849433)  
 
 > RPP2 has a different attendance policy than future cohorts. Confirm policy with PL.
@@ -159,7 +159,7 @@ ______________
 
 ### [RPP2 Update Assignment Submission Doc](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=1371301276)  
 
-A class period grace period was effective in RPP2. For example, if the assignment is due on Tuesday, checking for that assignment submission + updating the google sheet on Thursday worked well.
+A one-class grace period was effective in RPP2. For example, if the assignment is due on Tuesday, checking for that assignment submission + updating the google sheet on Thursday worked well.
 
 # Lecture Days   
 
@@ -174,7 +174,8 @@ A class period grace period was effective in RPP2. For example, if the assignmen
 ## Record Lecture
 > Every cohort needs a Tony :)  All the sticky notes & alarms in the world aren't as effective as multiple people checking that the lectures is being recorded. Let the cohort know you appreciate their help.
 
-## [RPP2 Provide Access to Assignment Repo](https://github.com/GalvanizeDataScience/convolutional-neural-nets) *github CNN for example*  
+## [RPP2 Provide Access to Assignment Repo](https://github.com/GalvanizeDataScience/convolutional-neural-nets)   
+*github CNN for example*  
 
 > Open at the beginning of class, not prior to lecture
 
@@ -183,13 +184,16 @@ A class period grace period was effective in RPP2. For example, if the assignmen
 3. Enter and Confirm your password
 4. Invite teams or people (READ Access)
 5. For RPP2, add **GalvanizeDataScience/21-02-ds-rpp**
-6. Confirm: Add GalvanizeDataScience/21-02-ds-rpp
+6. For RPP2, Confirm: Add GalvanizeDataScience/21-02-ds-rpp
 
 ## [RPP2 Add Solutions to Cohort's Solutions Repo]()  
-> RPP2 opens solutions with assignment. This will not be the case for RPP3. RPP3 solutions will be posted on the due date.
+> RPP2 opens solutions with assignment.   
+
+> This will not be the case for RPP3. RPP3 solutions will be posted on the due date.
+
+[RPP2 solutions repo](https://github.com/GalvanizeDataScience/solutions-rpp2.git)
 
 ONLY DO THIS PART THE FIRST TIME:
-[RPP2 solutions repo](https://github.com/GalvanizeDataScience/solutions-rpp2.git)
 
 1. git clone <cohort_solution_repo>
 2. cd into solutions repo
@@ -282,20 +286,18 @@ git push
 - ### In Hub (2 places to input grades)
 [RPP2 Assessment point Google doc](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=231386871)  
 
-[RPP@ Assessment results Google doc](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=341773588)
+[RPP2 Assessment results Google doc](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=341773588)
+
+Assessment statistics will populate after inputs are complete, which can be used to add statistics to Learn:
 
 - ### Adding Assessment Statistics to Learn
 [RPP2 Learn Assessment Solution Block](https://learn-2.galvanize.com/cohorts/2432/blocks/1045/content_files/01-assessment-solutions/01-solutions.md)
 
-```python
-import pandas as pd
-temp = pd.read_csv('~/Desktop/temp.csv')
-temp.describe().iloc[:,-2]
-```
+
 
 # Case Study Days  
 ## Generate Groups of 3/4 students  
-  [See creating pairs code & challenges](#Create-pairs-for-any-paired-assignment)
+  [Code for random list of RPP2 students](#Simple-code-for-random-listing-of-students)
 
 ## Assign breakout rooms 
 [See Manually assign rooms](#Manually-assign-rooms)
