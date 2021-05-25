@@ -93,12 +93,15 @@ Note: In an open block, the eyeball will disappear, but hovering over the <block
 ### One time, get access to gSchool Learn
 
 ### For each Learn block, clone learn gschool module into your Learn directory
+> if you have already cloned the repo, REMEMBER TO PULL after navigating into repo.
 
 ```bash
 cd Desktop/Galvanize/LEARN
 git clone https://github.com/gSchool/dsi-learn-clustering-methods.git
 cd dsi-learn-clustering-methods
+git pull # if necessary
 git checkout RPP2 
+git pull # if necessary
 code .
 ```
 Make necessary changes in VSCode markdown file(s)
@@ -116,33 +119,10 @@ In Learn:
 4. click sync arrows OR 3 vertical dots to right (choose update branch) of <block_name>  
 5. Double check that the changes are working in the student facing Learn block.
 
-
-
 [Edit Learn Video](#Edit-Learn-Video)  
 
-In a terminal, from the learn repo <dsi-learn-block>
-```bash
-git pull
-git checkout RPP2
-git pull (do we need to re-pull from each branch?)
-code .
-```
-In VSCode: make and save changes.
-Back in terminal:
-```bash
-learn preview -o . #the -o opens a preview Learn block to see changes
-git add .
-git commit -m '<note about the changes you made>'
-git push origin RPP2
-```
-In Learn:
-1. **SET UP** tab
-2. **Repos** tab
-3. **<block_name>** block will have a green 'updates' oval
-4. click sync arrows OR 3 vertical dots to right (choose update branch) of <block_name>  
-5. Double check that the changes are working in the student facing Learn block.
 
-## Slack Announcements
+## Weekly Slack Announcements
 - ### due dates for current assignments
 - ### reminder to submit assignments
   - #### bold async assignment(s)
@@ -228,9 +208,7 @@ DO THIS EVERY TIME:
 7. git push
 
 
-
-
-## Announcements  
+## Daily Announcements  
 
 Check-in with Instructor & PL prior to class regarding announcements 
 
@@ -282,26 +260,29 @@ In Learn:
 3. **Results** table   
 4. **Status** column
 
-## Adding solutions to solutions repo
+## Adding Assessment Solutions to the Solutions repo
 
-1. cd into solutions repo
-2. git pull
-3. git fetch solutions main
-4. git checkout solutions/main assessments/assessments-0
-> using 0 as an example
-5. git add .
-6. git commit -m 'add <name_of_module> solutions'
-7. git push
+```bash
+cd Desktop/Galvanize/RPP2/solutions-rpp2 # navigate into solutions repo 
+git pull
+git fetch solutions main
+git checkout solutions/main assessments/assessments-0 # using 0 as an example
+git add .
+git commit -m 'add assessment-0 solutions'
+git push
+```
 
-## Posting Solutions to Assessments
+## Adding Assessment Solutions to Learn
 [RPP2 Learn Assessment Solution Block](https://learn-2.galvanize.com/cohorts/2432/blocks/1045/content_files/01-assessment-solutions/01-solutions.md) 
 
 ## Grading Assessments
 - ### In Learn  
 [RPP2 Learn Assessment 0](https://learn-2.galvanize.com/cohorts/2432/blocks/115/content_files/assessment-0.md?assessment=true)
 
-- ### In Hub
-[RPP2 HUB](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=231386871)  
+- ### In Hub (2 places to input grades)
+[RPP2 Assessment point Google doc](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=231386871)  
+
+[RPP@ Assessment results Google doc](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=341773588)
 
 - ### Adding Assessment Statistics to Learn
 [RPP2 Learn Assessment Solution Block](https://learn-2.galvanize.com/cohorts/2432/blocks/1045/content_files/01-assessment-solutions/01-solutions.md)
