@@ -236,7 +236,7 @@ A one-class grace has bee the norm for RPP2. For example, if the assignment is d
 
 [* granting access to assignment repo how to video](https://drive.google.com/file/d/1UgR1OuQ_9dy9LSDXtgmXyxRhnAFqVEhH/view?usp=sharing)
 
-## [RPP2 Add Solutions to Cohort's Solutions Repo]() 
+## RPP2 Add Solutions to Cohort's Solutions Repo
 
 [Galvanize Main Solutions Repo](https://github.com/GalvanizeDataScience/solutions)
 
