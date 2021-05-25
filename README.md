@@ -250,14 +250,14 @@ A one-class grace has bee the norm for RPP2. For example, if the assignment is d
 
 > This will not be the case for RPP3. RPP3 solutions will be posted on the due date (I think).
 
-ONLY DO THIS PART THE FIRST TIME:
+ONLY DO THIS PART THE FIRST TIME YOU ADD SOLUTIONS:
 
 1. git clone <cohort_solution_repo>
 2. cd into solutions repo
 3. git remote add solutions <cohort_solution_repo>
 4. git fetch solutions main
 
-DO THIS EVERY TIME:
+DO THIS EVERY TIME YOU ADD SOLUTIONS:
 
 1. cd into solutions repo
 2. git pull
