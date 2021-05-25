@@ -90,8 +90,33 @@ Note: In an open block, the eyeball will disappear, but hovering over the <block
 
 [GitHub gSchool](https://github.com/gSchool)
 
-### clone learn gschool module into your Learn directory
-![gSchool Learn Directory](images/gSchool_Learn_Directory.png)
+### One time, get access to gSchool Learn
+
+### For each Learn block, clone learn gschool module into your Learn directory
+
+```bash
+cd Desktop/Galvanize/LEARN
+git clone https://github.com/gSchool/dsi-learn-clustering-methods.git
+cd dsi-learn-clustering-methods
+git checkout RPP2 
+code .
+```
+Make necessary changes in VSCode markdown file(s)
+Save changes
+```bash
+learn preview -o .
+git add .
+git commit -m 'description of changes'
+git push origin RPP2
+```
+In Learn:
+1. **SET UP** tab
+2. **Repos** tab
+3. **<block_name>** block will have a green 'updates' oval
+4. click sync arrows OR 3 vertical dots to right (choose update branch) of <block_name>  
+5. Double check that the changes are working in the student facing Learn block.
+
+
 
 [Edit Learn Video](#Edit-Learn-Video)  
 
