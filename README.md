@@ -20,15 +20,23 @@
 
 [How To Videos](#How-To-Videos) 
 
-Open Learn modules for upcoming week
-Grade assessments
-Post zoom recording
-Add Assignment Solutions
-Add Assessment Solutions 
-Help desk Video
-Edit Learn Video
-(*) Downloads & API to allow access to Learn
-sUltipro Time Sheet Changes 
+- [Open Learn modules for upcoming week]()
+
+- [Grade assessments]()
+
+- [Post zoom recording]()
+
+- [Add Assignment Solutions]()
+
+- [Add Assessment Solutions ]()
+
+- [Help desk Video]()
+
+- [Edit Learn Video]()
+
+- (*) [Downloads & API to allow access to Learn]()
+
+- [Ultipro Time Sheet Changes ]()
 
 [Common Fixes](#Common-Fixes)   
 
