@@ -38,6 +38,8 @@
 
 - [Checking & Updating Assignment Submissions in Learn](https://drive.google.com/file/d/1BvwxMJU055kYyfC1eC52urwPriOdBGa9/view?usp=sharing)
 
+- [Granting Access to Assignment Repo]()
+
 - [Grade assessments]()
 
 - [Post zoom recording]()
@@ -48,7 +50,6 @@
 
 - [Help desk Video]()
 
-- [Edit Learn Video]()
 
 - (*) [Downloads & API to allow access to Learn]()
 
@@ -222,10 +223,9 @@ A one-class grace has bee the norm for RPP2. For example, if the assignment is d
 ## Record Lecture
 > Every cohort needs a Tony :)  All the sticky notes & alarms in the world aren't as effective as multiple people checking that the lectures is being recorded. Let the cohort know you appreciate their help.
 
-## [RPP2 Provide Access to Assignment Repo](https://github.com/GalvanizeDataScience/convolutional-neural-nets)   
-*github CNN for example*  
+## RPP2 Provide Access to Assignment Repo
 
-> Open at the beginning of class, not prior to lecture
+> Open at the beginning of class, **not prior to lecture**
 
 1. Settings
 2. Manage Access
@@ -233,6 +233,8 @@ A one-class grace has bee the norm for RPP2. For example, if the assignment is d
 4. Invite teams or people (READ Access)
 5. For RPP2, add **GalvanizeDataScience/21-02-ds-rpp**
 6. For RPP2, Confirm: Add GalvanizeDataScience/21-02-ds-rpp
+
+[* granting access to assignment repo]()
 
 ## [RPP2 Add Solutions to Cohort's Solutions Repo]()  
 > RPP2 opens solutions with assignment.   
