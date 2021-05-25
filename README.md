@@ -262,10 +262,10 @@ DO THIS EVERY TIME YOU ADD SOLUTIONS:
 1. cd into solutions repo
 2. git pull
 3. git fetch solutions main
-4. git checkout solutions/main oop
-> using oop as an example
+4. git checkout solutions/main perceptrons
+> using perceptrons as an example
 5. git add .
-6. git commit -m 'add oop solutions'
+6. git commit -m 'add perceptrons solutions'
 7. git push
 
 
