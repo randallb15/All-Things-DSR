@@ -38,7 +38,7 @@
 
 - [Checking & Updating Assignment Submissions in Learn](https://drive.google.com/file/d/1BvwxMJU055kYyfC1eC52urwPriOdBGa9/view?usp=sharing)
 
-- [Granting Access to Assignment Repo]()
+- [Granting Access to Assignment Repo](https://drive.google.com/file/d/1UgR1OuQ_9dy9LSDXtgmXyxRhnAFqVEhH/view?usp=sharing)
 
 - [Grade assessments]()
 
@@ -234,12 +234,12 @@ A one-class grace has bee the norm for RPP2. For example, if the assignment is d
 5. For RPP2, add **GalvanizeDataScience/21-02-ds-rpp**
 6. For RPP2, Confirm: Add GalvanizeDataScience/21-02-ds-rpp
 
-[* granting access to assignment repo how to video]()
+[* granting access to assignment repo how to video](https://drive.google.com/file/d/1UgR1OuQ_9dy9LSDXtgmXyxRhnAFqVEhH/view?usp=sharing)
 
 ## [RPP2 Add Solutions to Cohort's Solutions Repo]()  
 > RPP2 opens solutions with assignment.   
 
-> This will not be the case for RPP3. RPP3 solutions will be posted on the due date.
+> This will not be the case for RPP3. RPP3 solutions will be posted on the due date (I think).
 
 [RPP2 solutions repo](https://github.com/GalvanizeDataScience/solutions-rpp2.git)
 
