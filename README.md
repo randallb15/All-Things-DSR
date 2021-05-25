@@ -18,6 +18,12 @@
 
 [Help Desk](#Help-Desk)  
 
+[Common Fixes](#Common-Fixes)   
+
+[Tuesday Team Meeting](#Tuesday-Team-Meeting)
+
+[Ultipro Stuff](#Ultipro-Stuff)
+
 [How To Videos](#How-To-Videos) 
 
 - [Open Learn modules for upcoming week]()
@@ -38,11 +44,6 @@
 
 - [Ultipro Time Sheet Changes ]()
 
-[Common Fixes](#Common-Fixes)   
-
-[Tuesday Team Meeting](#Tuesday-Team-Meeting)
-
-[Ultipro Stuff](#Ultipro-Stuff)
 
 ______________
  
