@@ -120,7 +120,6 @@ Note: In an open block, the eyeball will disappear, but hovering over the <block
 
 [GitHub gSchool](https://github.com/gSchool)
 
-[RPP2 solutions repo link](https://github.com/GalvanizeDataScience/solutions-rpp2)
 
 ### JUST ONE TIME, get access to gSchool Learn
 
@@ -139,6 +138,8 @@ git pull
 code .
 ```
 Make necessary changes in VSCode markdown file(s)
+
+[RPP2 solutions repo link](https://github.com/GalvanizeDataScience/solutions-rpp2)
 
 Save changes
 
