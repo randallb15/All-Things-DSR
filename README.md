@@ -25,7 +25,9 @@
 [Ultipro Stuff](#Ultipro-Stuff)
 
 [How To Videos](#How-To-Videos) 
-- [Creating Pairs/Groups Video](https://drive.google.com/file/d/1_2FXEfwQswyXi7L2QyT6RjbIrMmwbIkf/view?usp=sharing)
+- [Updating Pairs How To Video](https://drive.google.com/file/d/1_2FXEfwQswyXi7L2QyT6RjbIrMmwbIkf/view?usp=sharing)
+
+- [Updating Due Dates How To Video](https://drive.google.com/file/d/1_2FXEfwQswyXi7L2QyT6RjbIrMmwbIkf/view?usp=sharing)
 
 - [Open Learn modules for upcoming week]()
 
@@ -35,7 +37,7 @@
 
 - [Add Assignment Solutions]()
 
-- [Add Assessment Solutions ]()
+- [Add Assessment Solutions]()
 
 - [Help desk Video]()
 
@@ -43,7 +45,7 @@
 
 - (*) [Downloads & API to allow access to Learn]()
 
-- [Ultipro Time Sheet Changes ]()
+- [Ultipro Clock In/Out + Time Sheet Changes](https://drive.google.com/file/d/1YSCi5f5xv8xA5YE6Mao7llonSldUH8J8/view?usp=sharing)
 
 
 ______________
@@ -570,11 +572,14 @@ _________________
 ## Ultipro Stuff
 1. Open incognito window (command+shift+n)
 2. Open outlook (make sure you are signed in with k12 email)
-3. Open ultipro.com
+3. Open https://e21.ultipro.com/default.aspx
 4. Choose Workforce Management tab
 5. Use My Clock to clock in and out
+6. Submit time sheet change requests as necessary
 
-* Time Sheet Change Requests
+[* clock in/out + timesheet changes video](https://drive.google.com/file/d/1YSCi5f5xv8xA5YE6Mao7llonSldUH8J8/view?usp=sharing)
+
+
 
 ## Onboarding Stuff
 Background check  
