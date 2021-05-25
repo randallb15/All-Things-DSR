@@ -25,11 +25,14 @@
 [Ultipro Stuff](#Ultipro-Stuff)
 
 [How To Videos](#How-To-Videos) 
+
 - [Updating Pairs How To Video](https://drive.google.com/file/d/1_2FXEfwQswyXi7L2QyT6RjbIrMmwbIkf/view?usp=sharing)
 
 - [Updating Due Dates How To Video](https://drive.google.com/file/d/1_2FXEfwQswyXi7L2QyT6RjbIrMmwbIkf/view?usp=sharing)
 
 - [Open Learn modules for upcoming week](https://drive.google.com/file/d/16Stfq6gfBHQslPfDbP9OzCEp8A8c6BRr/view?usp=sharing)
+
+- [Editing Learn (fix solutions link example)](https://drive.google.com/file/d/1aTDXZ041Qyp9aeYL9An-F-TOkYZlpXKa/view?usp=sharing)
 
 - [Grade assessments]()
 
@@ -156,7 +159,7 @@ In Learn:
 4. click sync arrows OR 3 vertical dots to right (choose update branch) of <block_name>  
 5. Double check that the changes are working in the student facing Learn block.
 
-[Edit Learn Video](#Edit-Learn-Video)  
+[Editing Learn (fix solutions link example)](https://drive.google.com/file/d/1aTDXZ041Qyp9aeYL9An-F-TOkYZlpXKa/view?usp=sharing)
 
 
 ## Weekly Slack Announcements
