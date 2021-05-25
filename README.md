@@ -112,18 +112,20 @@ Note: In an open block, the eyeball will disappear, but hovering over the <block
 
 [GitHub gSchool](https://github.com/gSchool)
 
-### One time, get access to gSchool Learn
+### JUST ONE TIME, get access to gSchool Learn
 
-### For each Learn block, clone learn gschool module into your Learn directory
-> if you have already cloned the repo, REMEMBER TO PULL after navigating into repo.
+### For each Learn block, clone learn gSchool module into your Learn directory
+> if you have already cloned the repo,
+> - You don't need to re-clone the repo, just navigate in to repo
+> - REMEMBER TO PULL after navigating into repo
 
 ```bash
 cd Desktop/Galvanize/LEARN
-git clone https://github.com/gSchool/dsi-learn-clustering-methods.git
+git clone https://github.com/gSchool/dsi-learn-clustering-methods.git # if not yet cloned
 cd dsi-learn-clustering-methods
-git pull # if necessary
+git pull 
 git checkout RPP2 
-git pull # if necessary
+git pull
 code .
 ```
 Make necessary changes in VSCode markdown file(s)
