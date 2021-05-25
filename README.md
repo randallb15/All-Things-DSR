@@ -34,6 +34,10 @@
 
 - [Editing Learn (fix solutions link example)](https://drive.google.com/file/d/1aTDXZ041Qyp9aeYL9An-F-TOkYZlpXKa/view?usp=sharing)
 
+- [Editing Learn (hide broken link example](https://drive.google.com/file/d/1aTDXZ041Qyp9aeYL9An-F-TOkYZlpXKa/view?usp=sharing)
+
+- [Checking Assignment Solutions in Learn]()
+
 - [Grade assessments]()
 
 - [Post zoom recording]()
@@ -161,6 +165,8 @@ In Learn:
 
 [Editing Learn (fix solutions link example)](https://drive.google.com/file/d/1aTDXZ041Qyp9aeYL9An-F-TOkYZlpXKa/view?usp=sharing)
 
+[Editing Learn (hide broken link example](https://drive.google.com/file/d/1aTDXZ041Qyp9aeYL9An-F-TOkYZlpXKa/view?usp=sharing)
+
 
 ## Weekly Slack Announcements
 - ### due dates for current assignments
@@ -191,7 +197,7 @@ Link to HUB doc Attendance tab:
 
 ## Assignment Submissions
 
-### [RPP2 Checking Submissions in Learn](https://learn-2.galvanize.com/cohorts/2432/unit_progress)  
+### [RPP2 Checking Assignment Submissions in Learn](https://learn-2.galvanize.com/cohorts/2432/unit_progress)  
 1. **UNIT PROGRESS** tab
 2. **<block_name>** use down arrow
 3. <Assignment_name> use down arrow   
