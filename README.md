@@ -80,7 +80,7 @@ np.random.choice(RPP2_students, replace=False, size=len(RPP2_students))
 
 After creating pairs and getting feedback on adjustments, updating this google sheet will make the pairs visible to the students.
 
-## Check Student Facing Calendars
+## Check Student Facing Calendars + Update Due Dates
 
 [RPP2 Main Calendar & Weekly Schedule Learn](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/06-calendar.md)
 
