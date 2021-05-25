@@ -25,6 +25,7 @@
 [Ultipro Stuff](#Ultipro-Stuff)
 
 [How To Videos](#How-To-Videos) 
+- [Creating Pairs/Groups Video]()
 
 - [Open Learn modules for upcoming week]()
 
@@ -77,14 +78,6 @@ np.random.choice(RPP2_students, replace=False, size=len(RPP2_students))
 
 ## Check Student Facing Calendars
 
-[RPP2 Due Dates Learn](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/08-assignment-due-date.md)
-
-[RPP2 Due Dates Google Doc](https://docs.google.com/spreadsheets/d/1HxucDS629qxuQ1Jy0567M1yIHwIcAyquH5xWe5xL74c/edit#gid=0)
-
-- In general, the due date is a week from the corresponding lecture.  
-- Async assignments are due a week from that week's Saturday lecture.
-- Paired assignments should be italicized
-
 [RPP2 Main Calendar & Weekly Schedule Learn](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/06-calendar.md)
 
 [RPP2 Main Calendar Google Doc](https://calendar.google.com/calendar/u/0/r/week/2021/5/30)
@@ -94,6 +87,14 @@ np.random.choice(RPP2_students, replace=False, size=len(RPP2_students))
 [RPP2 Weekly Schedule Google Doc](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=725018318)
  - Are dates and order of modules correct? (Alert PL to discrepancies)
  - Check for Async assignment to be included in announcements
+
+[RPP2 Due Dates Learn](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/08-assignment-due-date.md)
+
+[RPP2 Due Dates Google Doc](https://docs.google.com/spreadsheets/d/1HxucDS629qxuQ1Jy0567M1yIHwIcAyquH5xWe5xL74c/edit#gid=0)
+
+- In general, the due date is a week from the corresponding lecture.  
+- Async assignments are due a week from that week's Saturday lecture.
+- Paired assignments should be italicized
 
 ## Open the Learn modules for upcoming week  
 From [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432/content)
