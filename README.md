@@ -236,7 +236,16 @@ A one-class grace has bee the norm for RPP2. For example, if the assignment is d
 
 [* granting access to assignment repo how to video](https://drive.google.com/file/d/1UgR1OuQ_9dy9LSDXtgmXyxRhnAFqVEhH/view?usp=sharing)
 
-## [RPP2 Add Solutions to Cohort's Solutions Repo]()  
+## [RPP2 Add Solutions to Cohort's Solutions Repo]() 
+
+[Galvanize Main Solutions Repo](https://github.com/GalvanizeDataScience/solutions)
+
+^All the solution directories are here^
+
+[RPP2 Solutions Repo](https://github.com/GalvanizeDataScience/solutions-rpp2)
+
+^Only the solution directories that have been added for RPP2 are here^
+
 > RPP2 opens solutions with assignment.   
 
 > This will not be the case for RPP3. RPP3 solutions will be posted on the due date (I think).
