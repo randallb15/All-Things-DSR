@@ -254,7 +254,7 @@ ONLY DO THIS PART THE FIRST TIME YOU ADD SOLUTIONS:
 
 1. git clone <cohort_solution_repo>
 2. cd into solutions repo
-3. git remote add solutions <cohort_solution_repo>
+3. git remote add solutions https://github.com/GalvanizeDataScience/solutions.git
 4. git fetch solutions main
 
 DO THIS EVERY TIME YOU ADD SOLUTIONS:
