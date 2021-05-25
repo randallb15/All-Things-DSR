@@ -252,7 +252,9 @@ A one-class grace has bee the norm for RPP2. For example, if the assignment is d
 
 ONLY DO THIS PART THE FIRST TIME YOU ADD SOLUTIONS:
 
-1. git clone <cohort_solution_repo>
+RPP2 example: 
+
+1. git clone https://github.com/GalvanizeDataScience/solutions-rpp2.git
 2. cd into solutions repo
 3. git remote add solutions https://github.com/GalvanizeDataScience/solutions.git
 4. git fetch solutions main
