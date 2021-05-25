@@ -44,7 +44,7 @@
 
 - [Post zoom recording]()
 
-- [Add Assignment Solutions]()
+- [Add Assignment Solutions](https://drive.google.com/file/d/1-bMnSAy1uYL60b3aFw4e72U7_M1dByAN/view?usp=sharing)
 
 - [Add Assessment Solutions]()
 
@@ -164,9 +164,9 @@ In Learn:
 4. click sync arrows OR 3 vertical dots to right (choose update branch) of <block_name>  
 5. Double check that the changes are working in the student facing Learn block.
 
-[Editing Learn (fix solutions link example)](https://drive.google.com/file/d/1aTDXZ041Qyp9aeYL9An-F-TOkYZlpXKa/view?usp=sharing)
+[* editing Learn (fix solutions link example)](https://drive.google.com/file/d/1aTDXZ041Qyp9aeYL9An-F-TOkYZlpXKa/view?usp=sharing)
 
-[Editing Learn (hide broken link example](https://drive.google.com/file/d/1aTDXZ041Qyp9aeYL9An-F-TOkYZlpXKa/view?usp=sharing)
+[* editing Learn (hide broken link example](https://drive.google.com/file/d/1aTDXZ041Qyp9aeYL9An-F-TOkYZlpXKa/view?usp=sharing)
 
 
 ## Weekly Slack Announcements
@@ -270,6 +270,7 @@ DO THIS EVERY TIME YOU ADD SOLUTIONS:
 6. git commit -m 'add perceptrons solutions'
 7. git push
 
+[* add solutions to cohort's solutions repo](https://drive.google.com/file/d/1-bMnSAy1uYL60b3aFw4e72U7_M1dByAN/view?usp=sharing)
 
 ## Daily Announcements  
 
@@ -296,7 +297,8 @@ git commit -m 'add lecture recording'
 git push origin RPP2
 ```
 
-In Learn:
+From [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432)
+
 1. **SET UP** tab
 2. **Repos** tab
 3. **<block_name>** block will have a green 'updates' oval
@@ -305,8 +307,11 @@ In Learn:
 
 
 # Assessment Days 
+
 ## Opening
-1. Learn.SET UP
+From [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432)
+
+1. **SET UP**
 2. **Content** tab
 3. **Assessments** block
 4. **DSI Assessment #** click first eyeball
@@ -337,6 +342,8 @@ git push
 
 ## Adding Assessment Solutions to Learn
 [RPP2 Learn Assessment Solution Block](https://learn-2.galvanize.com/cohorts/2432/blocks/1045/content_files/01-assessment-solutions/01-solutions.md) 
+
+[* editing learn to add assessments solutions link]()
 
 ## Grading Assessments
 - ### In Learn  
