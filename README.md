@@ -250,8 +250,6 @@ A one-class grace has bee the norm for RPP2. For example, if the assignment is d
 
 > This will not be the case for RPP3. RPP3 solutions will be posted on the due date (I think).
 
-[RPP2 solutions repo](https://github.com/GalvanizeDataScience/solutions-rpp2.git)
-
 ONLY DO THIS PART THE FIRST TIME:
 
 1. git clone <cohort_solution_repo>
