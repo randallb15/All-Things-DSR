@@ -234,7 +234,7 @@ A one-class grace has bee the norm for RPP2. For example, if the assignment is d
 5. For RPP2, add **GalvanizeDataScience/21-02-ds-rpp**
 6. For RPP2, Confirm: Add GalvanizeDataScience/21-02-ds-rpp
 
-[* granting access to assignment repo]()
+[* granting access to assignment repo how to video]()
 
 ## [RPP2 Add Solutions to Cohort's Solutions Repo]()  
 > RPP2 opens solutions with assignment.   
