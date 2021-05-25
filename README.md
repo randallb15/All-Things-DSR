@@ -72,13 +72,13 @@ np.random.choice(RPP2_students, replace=False, size=len(RPP2_students))
 
 ## Post Pairs
 
-[* updating pairs how to video](https://drive.google.com/file/d/1_2FXEfwQswyXi7L2QyT6RjbIrMmwbIkf/view?usp=sharing)
-
 [RPP2 Pairs Learn](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/07-pairs.md)
 
 [RPP2 Pairs Google Sheeet](https://docs.google.com/spreadsheets/d/1VcBQ9OE8YPqudsBuj6NNbmeWkR7uR8n_VgK8BTgd6TQ/edit#gid=0)
 
 After creating pairs and getting feedback on adjustments, updating this google sheet will make the pairs visible to the students.
+
+[* updating pairs how to video](https://drive.google.com/file/d/1_2FXEfwQswyXi7L2QyT6RjbIrMmwbIkf/view?usp=sharing)
 
 ## Check Student Facing Calendars + Update Due Dates
 
@@ -92,8 +92,6 @@ After creating pairs and getting feedback on adjustments, updating this google s
  - Are dates and order of modules correct? (Alert PL to discrepancies)
  - Check for Async assignment to be included in announcements
 
-[* updating due dates how to video](https://drive.google.com/file/d/1_2FXEfwQswyXi7L2QyT6RjbIrMmwbIkf/view?usp=sharing)
-
 [RPP2 Due Dates Learn](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/08-assignment-due-date.md)
 
 [RPP2 Due Dates Google Sheet](https://docs.google.com/spreadsheets/d/1HxucDS629qxuQ1Jy0567M1yIHwIcAyquH5xWe5xL74c/edit#gid=0)
@@ -101,6 +99,8 @@ After creating pairs and getting feedback on adjustments, updating this google s
 - In general, the due date is a week from the corresponding lecture.  
 - Async assignments are due a week from that week's Saturday lecture.
 - Paired assignments should be italicized
+
+[* updating due dates how to video](https://drive.google.com/file/d/1_2FXEfwQswyXi7L2QyT6RjbIrMmwbIkf/view?usp=sharing)
 
 ## Open the Learn Modules for Upcoming Week  
 From [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432/content)
