@@ -40,6 +40,8 @@
 
 - [Granting Access to Assignment Repo](https://drive.google.com/file/d/1UgR1OuQ_9dy9LSDXtgmXyxRhnAFqVEhH/view?usp=sharing)
 
+- [Opening Assessments in Learn](https://drive.google.com/file/d/1L_zHyMqH56RJAw6YmKtpJfbVEJH8JeJc/view?usp=sharing)
+
 - [Grade assessments]()
 
 - [Post zoom recording]()
@@ -308,7 +310,10 @@ From [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432)
 
 # Assessment Days 
 
-## Opening
+## Opening Assessment in Learn 
+
+TWO eyeballs to click!
+
 From [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432)
 
 1. **SET UP**
@@ -317,6 +322,8 @@ From [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432)
 4. **DSI Assessment #** click first eyeball
 5. click dropdown arrow to left of **DSI Assessment #**
 6. click second eyeball
+
+[* opening assessments in Learn](https://drive.google.com/file/d/1L_zHyMqH56RJAw6YmKtpJfbVEJH8JeJc/view?usp=sharing)
 
 ## Timing Assessment 
 - 60 minute strict time limit
