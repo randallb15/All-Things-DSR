@@ -31,7 +31,7 @@ ______________
 # Weekly Tasks 
 
 ## Create pairs for any paired assignment 
-Simple code for random listing of students, which can be used to choose pairs, groups of size k < n, and order of presentations: 
+Simple [code for random list of RPP2 students](#Code-for-random-list-of-RPP2-students), which can be used to choose pairs, groups of size k < n, and order of presentations: 
 ```python
 import numpy as np
 RPP2_students = ['Becky_MDT', 'Bahar_PST', 'Andrew_EST', 'Mekdi_PST', 'Tony_PST', 'Robert_CT',
@@ -297,7 +297,7 @@ Assessment statistics will populate after inputs are complete, which can be used
 
 # Case Study Days  
 ## Generate Groups of 3/4 students  
-  [Code for random list of RPP2 students](#Simple-code-for-random-listing-of-students)
+Code for random list of RPP2 students
 
 ## Assign breakout rooms 
 [See Manually assign rooms](#Manually-assign-rooms)
