@@ -84,9 +84,14 @@ From [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432/content)
 4. click grey eyeball to right of <block_name>  
 
 Note: In an open block, the eyeball will disappear, but hovering over the <block_name> will reveal a green eyeball that can be clicked on to close the block.
-     
+
 ## Fix Learn Typos/Errors/Broken-links   
 [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432)  
+
+[GitHub gSchool](https://github.com/gSchool)
+
+### clone learn gschool module into your Learn directory
+![gSchool Learn Directory](images/gSchool_Learn_Directory.png)
 
 [Edit Learn Video](#Edit-Learn-Video)  
 
