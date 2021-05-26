@@ -275,7 +275,10 @@ DO THIS EVERY TIME YOU ADD SOLUTIONS:
 
 Check-in with Instructor & PL prior to class regarding announcements 
 
-## Post [Lecture Recording](https://zoom.us/) After it Processes 
+## Post Lecture Recording After it Processes
+
+[RPP2 Zoom Account](https://zoom.us/)
+
 - edit recording name to include: *instructor, topic(s), date*
 - check that no passcode is required
 
