@@ -141,6 +141,7 @@ Follow the repo or the steps below (I hope)
 ```bash
 brew tap gSchool/learn
 brew install learn
+brew list # look for 'learn'
 learn set --api_token=<api token found in “API Token” tab under username in top right corner of Learn>
 ```
 [Learn site API token generator](https://learn-2.galvanize.com/api_token)
@@ -176,7 +177,8 @@ Make necessary changes in VSCode markdown file(s)
 Save changes
 
 ```bash
-learn preview -o .
+git status  # will  show the modified files
+learn preview -o .  # opens a 'practice' Learn block to see repo after changes
 git add .
 git commit -m 'description of changes'
 git push origin RPP2
