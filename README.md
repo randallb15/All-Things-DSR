@@ -287,9 +287,10 @@ git checkout RPP2
 git pull (do we need to re-pull from each branch?)
 code .
 ```
-In VSCode: add lecture recording link.
+In VSCode: 
+- Add lecture recording link.
 
-Save changes.
+- Save changes.
 
 Back in terminal:
 
