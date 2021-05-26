@@ -1,4 +1,6 @@
 # Table of Contents 
+
+[RPP2 Main Hub](#RPP2-Main-Hub)
  
 [Weekly Tasks](#Weekly-Tasks)
 
@@ -57,10 +59,9 @@ How To Videos
 
 ______________
  
+# ## [RPP2 Main Hub](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=231386871)
+
 # Weekly Tasks 
-
-## [RPP2 Main Hub](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=231386871)
-
 
 ## Create pairs for any paired assignment 
 Simple code for random list of RPP2 students, which can be used to choose pairs, groups of size k < n, and order of presentations: 
