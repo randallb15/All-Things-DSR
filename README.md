@@ -342,6 +342,7 @@ From [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432)
 4. click sync arrows OR 3 vertical dots to right (choose update branch) of <block_name>  
 5. Double check that the changes are working in the student facing Learn block.
 
+[* add Zoom lecture recording to Learn]()
 
 # Assessment Days 
 
