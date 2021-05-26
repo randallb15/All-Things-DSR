@@ -28,9 +28,9 @@
 
 How To Videos
 
-- [Updating Pairs How To Video](https://drive.google.com/file/d/1_2FXEfwQswyXi7L2QyT6RjbIrMmwbIkf/view?usp=sharing)
+- [Updating Pairs How To Video 2:34](https://drive.google.com/file/d/1_2FXEfwQswyXi7L2QyT6RjbIrMmwbIkf/view?usp=sharing)
 
-- [Updating Due Dates How To Video](https://drive.google.com/file/d/1_2FXEfwQswyXi7L2QyT6RjbIrMmwbIkf/view?usp=sharing)
+- [Updating Due Dates How To Video](https://drive.google.com/file/d/16eXyF5IjBbbd8CxRdG5m22Qt7EvyXzwe/view?usp=sharing)
 
 - [Open Learn modules for upcoming week](https://drive.google.com/file/d/16Stfq6gfBHQslPfDbP9OzCEp8A8c6BRr/view?usp=sharing)
 
@@ -113,7 +113,7 @@ After creating pairs and getting feedback on adjustments, updating this google s
 - Async assignments are due a week from that week's Saturday lecture.
 - Paired assignments should be italicized
 
-[* updating due dates how to video](https://drive.google.com/file/d/1_2FXEfwQswyXi7L2QyT6RjbIrMmwbIkf/view?usp=sharing)
+[* updating due dates how to video](https://drive.google.com/file/d/16eXyF5IjBbbd8CxRdG5m22Qt7EvyXzwe/view?usp=sharing)
 
 ## Open the Learn Modules for Upcoming Week  
 From [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432/content)
