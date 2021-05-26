@@ -275,7 +275,7 @@ DO THIS EVERY TIME YOU ADD SOLUTIONS:
 
 Check-in with Instructor & PL prior to class regarding announcements 
 
-## Post [lecture recording](https://zoom.us/) after it processes 
+## Post [Lecture Recording](https://zoom.us/) After it Processes 
 - edit recording name to include: *instructor, topic(s), date*
 - check that no passcode is required
 
