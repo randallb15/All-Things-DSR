@@ -84,10 +84,8 @@ np.random.choice(RPP2_students, replace=False, size=len(RPP2_students))
 ## Post Pairs
 
 Note: 
-
-PL implementing new pairs structure as of 5/25/21. 
-
-Repo to be updated with details.
+* PL implementing new pairs structure as of 5/25/21. 
+* Repo to be updated with details.
 
 [RPP2 Pairs Learn](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/07-pairs.md)
 
