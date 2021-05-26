@@ -50,9 +50,6 @@ How To Videos
 
 - [Add Assessment Solutions]()
 
-- [Help desk Video]()
-
-
 - (*) [Downloads & API to allow access to Learn]()
 
 - [Ultipro Clock In/Out + Time Sheet Changes](https://drive.google.com/file/d/1YSCi5f5xv8xA5YE6Mao7llonSldUH8J8/view?usp=sharing)
@@ -291,7 +288,11 @@ git pull (do we need to re-pull from each branch?)
 code .
 ```
 In VSCode: add lecture recording link.
+
+Save changes.
+
 Back in terminal:
+
 ```bash
 learn preview -o . #the -o opens a preview Learn block to see changes
 git add .
