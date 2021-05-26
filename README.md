@@ -44,7 +44,7 @@ How To Videos
 
 - [Post zoom lecture recording 7:20](https://drive.google.com/file/d/1HHMIrfLhJuhUm20fqOLfy-5EEF-cjxKJ/view?usp=sharing)
 
-- [Opening Assessments in Learn ](https://drive.google.com/file/d/1L_zHyMqH56RJAw6YmKtpJfbVEJH8JeJc/view?usp=sharing)
+- [Opening Assessments in Learn 1:13](https://drive.google.com/file/d/1L_zHyMqH56RJAw6YmKtpJfbVEJH8JeJc/view?usp=sharing)
 
 - [FRI 5/28 Grade assessments TBD]()
 
