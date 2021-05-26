@@ -30,11 +30,13 @@ How To Videos
 
 - [Updating Pairs How To Video 2:34](https://drive.google.com/file/d/1_2FXEfwQswyXi7L2QyT6RjbIrMmwbIkf/view?usp=sharing)
 
-- [Updating Due Dates How To Video](https://drive.google.com/file/d/16eXyF5IjBbbd8CxRdG5m22Qt7EvyXzwe/view?usp=sharing)
+- [Updating Due Dates How To Video 2:34](https://drive.google.com/file/d/16eXyF5IjBbbd8CxRdG5m22Qt7EvyXzwe/view?usp=sharing)
 
-- [Open Learn modules for upcoming week](https://drive.google.com/file/d/16Stfq6gfBHQslPfDbP9OzCEp8A8c6BRr/view?usp=sharing)
+- [Open Learn modules for upcoming week 0:53](https://drive.google.com/file/d/16Stfq6gfBHQslPfDbP9OzCEp8A8c6BRr/view?usp=sharing)
 
-- [Editing Learn (fix solutions link example)](https://drive.google.com/file/d/1OaBNzZQJIIFwXwZRk0uqwkXwvq2vralc/view?usp=sharing)
+- [Editing Learn (fix solutions link example) 7:20](https://drive.google.com/file/d/1OaBNzZQJIIFwXwZRk0uqwkXwvq2vralc/view?usp=sharing)
+
+WHY IS VIDEO NOT FULL W/1086p available?
 
 - [Checking & Updating Assignment Submissions in Learn](https://drive.google.com/file/d/1BvwxMJU055kYyfC1eC52urwPriOdBGa9/view?usp=sharing)
 
