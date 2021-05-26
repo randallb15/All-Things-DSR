@@ -342,7 +342,7 @@ From [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432)
 4. click sync arrows OR 3 vertical dots to right (choose update branch) of <block_name>  
 5. Double check that the changes are working in the student facing Learn block.
 
-[* add Zoom lecture recording to Learn](https://drive.google.com/file/d/1HHMIrfLhJuhUm20fqOLfy-5EEF-cjxKJ/view?usp=sharing)
+[* add Zoom lecture recording to Learn how to video](https://drive.google.com/file/d/1HHMIrfLhJuhUm20fqOLfy-5EEF-cjxKJ/view?usp=sharing)
 
 # Assessment Days 
 
@@ -359,7 +359,7 @@ From [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432)
 5. click dropdown arrow to left of **DSI Assessment #**
 6. click second eyeball
 
-[* opening assessments in Learn](https://drive.google.com/file/d/1L_zHyMqH56RJAw6YmKtpJfbVEJH8JeJc/view?usp=sharing)
+[* opening assessments in Learn how to video](https://drive.google.com/file/d/1L_zHyMqH56RJAw6YmKtpJfbVEJH8JeJc/view?usp=sharing)
 
 ## Timing Assessment 
 - 60 minute strict time limit
@@ -386,7 +386,7 @@ git push
 ## Adding Assessment Solutions to Learn
 [RPP2 Learn Assessment Solution Block](https://learn-2.galvanize.com/cohorts/2432/blocks/1045/content_files/01-assessment-solutions/01-solutions.md) 
 
-[* editing learn to add assessments solutions link]()
+[* editing learn to add assessments solutions link how to video]()
 
 ## Grading Assessments
 - ### In Learn  
@@ -503,6 +503,8 @@ In Learn:
 3. **<block_name>** block will have a green 'updates' oval
 4. click sync arrows OR 3 vertical dots to right (choose update branch) of <block_name>  
 5. Double check that the changes are working in the student facing Learn block.
+
+[* add Zoom lecture recording to Learn how to video](https://drive.google.com/file/d/1HHMIrfLhJuhUm20fqOLfy-5EEF-cjxKJ/view?usp=sharing)
 
 _______________
 
