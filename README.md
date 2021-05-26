@@ -36,8 +36,6 @@ How To Videos
 
 - [Editing Learn (fix solutions link example)](https://drive.google.com/file/d/1OaBNzZQJIIFwXwZRk0uqwkXwvq2vralc/view?usp=sharing)
 
-- [Editing Learn (hide broken link example)](https://drive.google.com/file/d/1OmgxByrzL6KIuxR7Q5Bv-GM3ZmBQOPdn/view?usp=sharing)
-
 - [Checking & Updating Assignment Submissions in Learn](https://drive.google.com/file/d/1BvwxMJU055kYyfC1eC52urwPriOdBGa9/view?usp=sharing)
 
 - [Granting Access to Assignment Repo](https://drive.google.com/file/d/1UgR1OuQ_9dy9LSDXtgmXyxRhnAFqVEhH/view?usp=sharing)
@@ -193,8 +191,6 @@ In Learn:
 5. Double check that the changes are working in the student facing Learn block.
 
 [* editing Learn (fix solutions link example)](https://drive.google.com/file/d/1OaBNzZQJIIFwXwZRk0uqwkXwvq2vralc/view?usp=sharing)
-
-[* editing Learn (hide broken link example](https://drive.google.com/file/d/1OmgxByrzL6KIuxR7Q5Bv-GM3ZmBQOPdn/view?usp=sharing)
 
 
 ## Weekly Slack Announcements
