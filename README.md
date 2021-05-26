@@ -134,6 +134,17 @@ Note: In an open block, the eyeball will disappear, but hovering over the <block
 
 ### JUST ONE TIME, get access to gSchool Learn
 
+Follow the repo or the steps below (I hope)
+
+1. [Install Learn in terminal](https://github.com/gSchool/glearn-cli/blob/master/README.md)
+
+```bash
+brew tap gSchool/learn
+brew install learn
+learn set --api_token=<api token found in “API Token” tab under username in top right corner of [Learn site](https://learn-2.galvanize.com/api_token)>
+
+```
+
 ### For each Learn block, clone learn gSchool module into your Learn directory
 > if you have already cloned the repo,
 > - You don't need to re-clone the repo, just navigate in to repo
