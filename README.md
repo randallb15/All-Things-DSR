@@ -34,7 +34,7 @@ How To Videos
 
 - [Open Learn modules for upcoming week 0:53](https://drive.google.com/file/d/16Stfq6gfBHQslPfDbP9OzCEp8A8c6BRr/view?usp=sharing)
 
-- [Editing Learn (fix solutions link example) 7:20](https://drive.google.com/file/d/1OaBNzZQJIIFwXwZRk0uqwkXwvq2vralc/view?usp=sharing)
+- [Editing Learn (fix solutions link example) 7:20](https://drive.google.com/file/d/1n-1kg-IupQXr9SPQNdlOMcEk-H0r0mGz/view?usp=sharing)
 
 WHY IS VIDEO NOT FULL W/1086p available?
 
@@ -192,7 +192,7 @@ In Learn:
 4. click sync arrows OR 3 vertical dots to right (choose update branch) of <block_name>  
 5. Double check that the changes are working in the student facing Learn block.
 
-[* editing Learn (fix solutions link example)](https://drive.google.com/file/d/1OaBNzZQJIIFwXwZRk0uqwkXwvq2vralc/view?usp=sharing)
+[* editing Learn (fix solutions link example)](https://drive.google.com/file/d/1n-1kg-IupQXr9SPQNdlOMcEk-H0r0mGz/view?usp=sharing)
 
 
 ## Weekly Slack Announcements
