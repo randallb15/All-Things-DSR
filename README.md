@@ -36,7 +36,7 @@ How To Videos
 
 - [Editing Learn (fix solutions link example)](https://drive.google.com/file/d/1OaBNzZQJIIFwXwZRk0uqwkXwvq2vralc/view?usp=sharing)
 
-- [Editing Learn (hide broken link example](https://drive.google.com/file/d/1aTDXZ041Qyp9aeYL9An-F-TOkYZlpXKa/view?usp=sharing)
+- [Editing Learn (hide broken link example)](https://drive.google.com/file/d/1OmgxByrzL6KIuxR7Q5Bv-GM3ZmBQOPdn/view?usp=sharing)
 
 - [Checking & Updating Assignment Submissions in Learn](https://drive.google.com/file/d/1BvwxMJU055kYyfC1eC52urwPriOdBGa9/view?usp=sharing)
 
@@ -194,7 +194,7 @@ In Learn:
 
 [* editing Learn (fix solutions link example)](https://drive.google.com/file/d/1OaBNzZQJIIFwXwZRk0uqwkXwvq2vralc/view?usp=sharing)
 
-[* editing Learn (hide broken link example](https://drive.google.com/file/d/1aTDXZ041Qyp9aeYL9An-F-TOkYZlpXKa/view?usp=sharing)
+[* editing Learn (hide broken link example](https://drive.google.com/file/d/1OmgxByrzL6KIuxR7Q5Bv-GM3ZmBQOPdn/view?usp=sharing)
 
 
 ## Weekly Slack Announcements
