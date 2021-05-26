@@ -143,7 +143,7 @@ brew tap gSchool/learn
 brew install learn
 learn set --api_token=<api token found in “API Token” tab under username in top right corner of Learn>
 ```
-[Learn site](https://learn-2.galvanize.com/api_token)
+[Learn site API token generator](https://learn-2.galvanize.com/api_token)
 
 ### For each Learn block, clone learn gSchool module into your Learn directory
 > if you have already cloned the repo,
