@@ -146,13 +146,15 @@ learn set --api_token=<api token found in “API Token” tab under username in 
 [Learn site API token generator](https://learn-2.galvanize.com/api_token)
 
 > If you see this error:
-Error: The following directories are not writable by your user: /usr/local/bin. You should change the ownership of these directories to your user.
+
+> Error: The following directories are not writable by your user: /usr/local/bin. You should change the ownership of these directories to your user.
 * use the suggestion the terminal gives
 ```bash
 sudo chown -R $(whoami) /usr/local/bin
 ```
 * use brew doctor to find any warnings you might have with brew
 
+**Create a directory to store all the Learn repos: Desktop/Galvanize/RPP2/LEARN
 
 ### For each Learn block, clone learn gSchool module into your Learn directory
 > if you have already cloned the repo,
@@ -163,9 +165,8 @@ sudo chown -R $(whoami) /usr/local/bin
 cd Desktop/Galvanize/LEARN
 git clone https://github.com/gSchool/dsi-learn-clustering-methods.git # if not yet cloned
 cd dsi-learn-clustering-methods
-git pull # I don't know if this is strictly necessary
+git pull origin RPP2  # git pull will not update all branches
 git checkout RPP2 
-git pull origin RPP2
 code .
 ```
 Make necessary changes in VSCode markdown file(s)
