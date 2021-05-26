@@ -20,11 +20,11 @@
 
 [Common Fixes](#Common-Fixes)   
 
-[Tuesday Team Meeting](#Tuesday-Team-Meeting)
+[Tuesday Team Meeting](#Tuesday-Team-Meetings)
 
 [Ultipro Stuff](#Ultipro-Stuff)
 
-[How To Videos](#How-To-Videos) 
+How To Videos
 
 - [Updating Pairs How To Video](https://drive.google.com/file/d/1_2FXEfwQswyXi7L2QyT6RjbIrMmwbIkf/view?usp=sharing)
 
