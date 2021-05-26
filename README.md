@@ -36,23 +36,21 @@ How To Videos
 
 - [Editing Learn (fix solutions link example) 7:20](https://drive.google.com/file/d/1n-1kg-IupQXr9SPQNdlOMcEk-H0r0mGz/view?usp=sharing)
 
-WHY IS VIDEO NOT FULL W/1086p available?
+- [Checking & Updating Assignment Submissions in Learn 2:20](https://drive.google.com/file/d/1BvwxMJU055kYyfC1eC52urwPriOdBGa9/view?usp=sharing)
 
-- [Checking & Updating Assignment Submissions in Learn](https://drive.google.com/file/d/1BvwxMJU055kYyfC1eC52urwPriOdBGa9/view?usp=sharing)
+- [Granting Access to Assignment Repo 2:09](https://drive.google.com/file/d/1UgR1OuQ_9dy9LSDXtgmXyxRhnAFqVEhH/view?usp=sharing)
 
-- [Granting Access to Assignment Repo](https://drive.google.com/file/d/1UgR1OuQ_9dy9LSDXtgmXyxRhnAFqVEhH/view?usp=sharing)
+- [Add Assignment Solutions 3:33](https://drive.google.com/file/d/1-bMnSAy1uYL60b3aFw4e72U7_M1dByAN/view?usp=sharing)
 
-- [Add Assignment Solutions](https://drive.google.com/file/d/1-bMnSAy1uYL60b3aFw4e72U7_M1dByAN/view?usp=sharing)
+- [Post zoom lecture recording 7:20](https://drive.google.com/file/d/1HHMIrfLhJuhUm20fqOLfy-5EEF-cjxKJ/view?usp=sharing)
 
-- [Post zoom lecture recording](https://drive.google.com/file/d/1HHMIrfLhJuhUm20fqOLfy-5EEF-cjxKJ/view?usp=sharing)
+- [Opening Assessments in Learn ](https://drive.google.com/file/d/1L_zHyMqH56RJAw6YmKtpJfbVEJH8JeJc/view?usp=sharing)
 
-- [Opening Assessments in Learn](https://drive.google.com/file/d/1L_zHyMqH56RJAw6YmKtpJfbVEJH8JeJc/view?usp=sharing)
+- [FRI 5/28 Grade assessments TBD]()
 
-- [FRI 5/28 Grade assessments]()
+- [FRI 5/28 Add Assessment Solutions TBD]()
 
-- [FRI 5/28 Add Assessment Solutions]()
-
-- [Ultipro Clock In/Out + Time Sheet Changes](https://drive.google.com/file/d/1YSCi5f5xv8xA5YE6Mao7llonSldUH8J8/view?usp=sharing)
+- [Ultipro Clock In/Out + Time Sheet Changes 6:22](https://drive.google.com/file/d/1YSCi5f5xv8xA5YE6Mao7llonSldUH8J8/view?usp=sharing)
 
 
 ______________
