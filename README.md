@@ -206,7 +206,7 @@ In Learn:
 - ### notice of upcoming case-study or capstone days  
 > ### check with PL and instructors for other announcements
 
-![Announcement Example Image](https://drive.google.com/file/d/1LzQ-3ANuL5Tuwv6pitsJpISPrPRVKRWg/view?usp=sharing)
+[Announcement Example Image](https://drive.google.com/file/d/1LzQ-3ANuL5Tuwv6pitsJpISPrPRVKRWg/view?usp=sharing)
 ______________
 
 # All Class Days  
