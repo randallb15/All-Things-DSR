@@ -42,17 +42,15 @@ How To Videos
 
 - [Granting Access to Assignment Repo](https://drive.google.com/file/d/1UgR1OuQ_9dy9LSDXtgmXyxRhnAFqVEhH/view?usp=sharing)
 
-- [Opening Assessments in Learn](https://drive.google.com/file/d/1L_zHyMqH56RJAw6YmKtpJfbVEJH8JeJc/view?usp=sharing)
-
-- [Grade assessments]()
-
-- [Post zoom recording]()
-
 - [Add Assignment Solutions](https://drive.google.com/file/d/1-bMnSAy1uYL60b3aFw4e72U7_M1dByAN/view?usp=sharing)
 
-- [Add Assessment Solutions]()
+- [Post zoom lecture recording]()
 
-- (*) [Downloads & API to allow access to Learn]()
+- [Opening Assessments in Learn](https://drive.google.com/file/d/1L_zHyMqH56RJAw6YmKtpJfbVEJH8JeJc/view?usp=sharing)
+
+- [FRI 5/28 Grade assessments]()
+
+- [FRI 5/28 Add Assessment Solutions]()
 
 - [Ultipro Clock In/Out + Time Sheet Changes](https://drive.google.com/file/d/1YSCi5f5xv8xA5YE6Mao7llonSldUH8J8/view?usp=sharing)
 
