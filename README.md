@@ -145,6 +145,15 @@ learn set --api_token=<api token found in “API Token” tab under username in 
 ```
 [Learn site API token generator](https://learn-2.galvanize.com/api_token)
 
+> If you see this error:
+Error: The following directories are not writable by your user: /usr/local/bin. You should change the ownership of these directories to your user.
+* use the suggestion the terminal gives
+```bash
+sudo chown -R $(whoami) /usr/local/bin
+```
+* use brew doctor to find any warnings you might have with brew
+
+
 ### For each Learn block, clone learn gSchool module into your Learn directory
 > if you have already cloned the repo,
 > - You don't need to re-clone the repo, just navigate in to repo
