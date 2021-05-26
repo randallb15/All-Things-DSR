@@ -154,7 +154,7 @@ sudo chown -R $(whoami) /usr/local/bin
 ```
 * use brew doctor to find any warnings you might have with brew
 
-**Create a directory to store all the Learn repos: Desktop/Galvanize/RPP2/LEARN
+**Create a directory to store all the Learn repos: Desktop/Galvanize/RPP2/LEARN**
 
 ### For each Learn block, clone learn gSchool module into your Learn directory
 > if you have already cloned the repo,
