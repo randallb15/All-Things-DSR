@@ -85,7 +85,7 @@ np.random.choice(RPP2_students, replace=False, size=len(RPP2_students))
 
 Note: 
 * PL implementing new pairs structure as of 5/25/21. 
-* Repo to be updated with details.
+* Repo to be updated with details (e.g. designated scheduler).
 
 [RPP2 Pairs Learn](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/07-pairs.md)
 
@@ -206,6 +206,7 @@ In Learn:
 - ### notice of upcoming case-study or capstone days  
 > ### check with PL and instructors for other announcements
 
+![Announcement Example Image](https://drive.google.com/file/d/1LzQ-3ANuL5Tuwv6pitsJpISPrPRVKRWg/view?usp=sharing)
 ______________
 
 # All Class Days  
