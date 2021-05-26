@@ -34,7 +34,7 @@ How To Videos
 
 - [Open Learn modules for upcoming week](https://drive.google.com/file/d/16Stfq6gfBHQslPfDbP9OzCEp8A8c6BRr/view?usp=sharing)
 
-- [Editing Learn (fix solutions link example)](https://drive.google.com/file/d/1aTDXZ041Qyp9aeYL9An-F-TOkYZlpXKa/view?usp=sharing)
+- [Editing Learn (fix solutions link example)](https://drive.google.com/file/d/1xMxmLareg-BU_hF4C5HFdg7pioR-1rcZ/view?usp=sharing)
 
 - [Editing Learn (hide broken link example](https://drive.google.com/file/d/1aTDXZ041Qyp9aeYL9An-F-TOkYZlpXKa/view?usp=sharing)
 
@@ -192,7 +192,7 @@ In Learn:
 4. click sync arrows OR 3 vertical dots to right (choose update branch) of <block_name>  
 5. Double check that the changes are working in the student facing Learn block.
 
-[* editing Learn (fix solutions link example)](https://drive.google.com/file/d/1aTDXZ041Qyp9aeYL9An-F-TOkYZlpXKa/view?usp=sharing)
+[* editing Learn (fix solutions link example)](https://drive.google.com/file/d/1xMxmLareg-BU_hF4C5HFdg7pioR-1rcZ/view?usp=sharing)
 
 [* editing Learn (hide broken link example](https://drive.google.com/file/d/1aTDXZ041Qyp9aeYL9An-F-TOkYZlpXKa/view?usp=sharing)
 
